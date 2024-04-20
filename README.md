@@ -16,3 +16,10 @@ To install the required Python packages, run the following command:
 ```bash
 pip install -r requirements.txt
 
+## Setup
+Clone the repository and navigate to the project directory:
+```bash
+git clone git@github.com:sarahaptumich/capstone.git
+cd capstone
+
+
