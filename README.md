@@ -11,15 +11,11 @@ This repository contains our Capstone for the Master’s in Applied Data Science
 ## Installation
 All the auxiliary files necessary to run our notebooks are available in the `files` folder. Download and unzip on your local machine or Google Drive. Notebooks can be run directly from Google Colab or on your local machine.
 
-### Prerequisites
-To install the required Python packages, run the following command:
+## Prerequisites
 ```bash
+# Example for Python projects
 pip install -r requirements.txt
+```
 
-## Setup
-Clone the repository and navigate to the project directory:
-```bash
-git clone git@github.com:sarahaptumich/capstone.git
-cd capstone
 
 
