@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from tabulate import tabulate
 
 st.sidebar.image('website_creation/Logo_GPT.PNG', use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
