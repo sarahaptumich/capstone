@@ -17,7 +17,7 @@ All the auxiliary files necessary to run our notebooks are available in the `fil
 pip install -r requirements.txt
 ```
 ## Usage
-In addition to the notebooks in this repository, we have an interactive application that can be found [here](<insert link to streamlit>).
+In addition to the notebooks in this repository, we have an interactive application that can be found [here](<https://teambreakers.streamlit.app/>).
 
 ## Features
 Our project includes a variety of analyses and features:
