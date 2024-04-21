@@ -24,7 +24,7 @@ This repository contains our Capstone for the Master’s in Applied Data Science
 - data_exploration_judges(profiles).ipynb
 - data_exploration_judges3(normalized_winner).ipynb
 
-All files for the website (Streamlit App) are in the website_creation folder.
+### All files for the website (Streamlit App) are in the website_creation folder.
 
 
 
