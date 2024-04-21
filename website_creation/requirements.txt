@@ -6,4 +6,5 @@ keras==3.2.1
 keras_tuner==1.4.7
 matplotlib==3.8.3
 numpy==1.24.3
+plotly==5.6.0
 
