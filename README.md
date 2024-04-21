@@ -28,7 +28,6 @@ Our project includes a variety of analyses and features:
 - Score Normalization
 - Video Analysis
 - Dance Movement Prediction
-- Battle Round Prediction
 
 ## Acknowledgments
 We thank "Settle In the Cypher" for allowing the use of their data for analysis and for their expert advice during our research.
