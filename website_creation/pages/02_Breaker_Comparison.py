@@ -13,7 +13,7 @@ st.set_page_config(
 st.title('Breaker Match Simulations')
 st.divider()
 
-st.sidebar.image("./Logo_GPT.png", use_column_width=True)
+st.sidebar.image("./website_creation/Logo_GPT.png", use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
 
 options = ('Girls', 'Boys', 'Other')
@@ -42,11 +42,11 @@ def fit_model(X):
 
 #Splitting up by type of df
 if 'Girls' in option:
-    df = pd.read_csv('.\complete_girl_df.csv')
+    df = pd.read_csv('./website_creation/complete_girl_df.csv')
 elif 'Boys' in option:
-    df = pd.read_csv('.\complete_boy_df.csv')
+    df = pd.read_csv('./website_creation/complete_boy_df.csv')
 elif 'Other' in option:
-    df = pd.read_csv('.\complete_other_df.csv')
+    df = pd.read_csv('./website_creation/complete_other_df.csv')
 
 
 #Create list with breakers
