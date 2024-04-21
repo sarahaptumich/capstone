@@ -7,11 +7,11 @@ import numpy as np
 
 show_pages(
     [
-        Page("website_creation/main.py", "Home"),
-        Page("website_creation/pages/01_Player_Profiles.py", "Breaker Rankings"),
-        Page("website_creation/pages/02_Breaker_Comparison.py", "Breaker Match Simulations"),
-        Page("website_creation/pages/02_Judge_Profiles.py", "Judge Profiles"),
-        Page("website_creation/pages/03_Our_Data.py", "Our Data"),
+        Page(r'website_creation/main.py', "Home"),
+        Page(r'website_creation/pages/01_Player_Profiles.py', "Breaker Rankings"),
+        Page(r'website_creation/pages/02_Breaker_Comparison.py', "Breaker Match Simulations"),
+        Page(r'website_creation/pages/02_Judge_Profiles.py', "Judge Profiles"),
+        Page(r'website_creation/pages/03_Our_Data.py', "Our Data"),
     ]
 )
 
@@ -19,7 +19,7 @@ st.title('Welcome to Settle it in the Cypher!')
 st.divider()
 st.subheader('Competitive Breaking Data Analysis')
 st.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
-st.image('website_creation/Logo_GPT.png')
+st.image(r'website_creation/Logo_GPT.png')
 st.write(
 """
 Current projects that the team has worked are: 
@@ -41,7 +41,7 @@ Potential future projects:
 )
 
 st.sidebar.markdown("Who Are We?")
-st.sidebar.image("website_creation/Logo_GPT.png", use_column_width=True)
+st.sidebar.image(r'website_creation/Logo_GPT.png', use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
 st.divider()
 st.write(
