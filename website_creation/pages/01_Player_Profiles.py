@@ -13,7 +13,7 @@ st.set_page_config(
 st.title('Breaker Rankings')
 st.divider()
 
-st.sidebar.image("./website_creation/Logo_GPT.png", use_column_width=True)
+st.sidebar.image("website_creation/Logo_GPT.png", use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
 
 options = ('Girls', 'Boys', 'Other')
@@ -29,18 +29,18 @@ st.write('You selected:', number_option)
 st.divider()
 
 if 'Girls' in option:
-    elo_df = pd.read_csv('./website_creation/girl_elo.csv')
-    glicko_df = pd.read_csv('./website_creation/girl_glicko.csv')   
+    elo_df = pd.read_csv('website_creation/girl_elo.csv')
+    glicko_df = pd.read_csv('website_creation/girl_glicko.csv')   
     elo_title = 'Girls Elo Ranking'
     glicko_title = 'Girls Glicko Ranking'
 elif 'Boys' in option:
-    elo_df = pd.read_csv('./website_creation/df_boy_elo.csv')
-    glicko_df = pd.read_csv('./website_creation/df_boy_glicko.csv')
+    elo_df = pd.read_csv('website_creation/df_boy_elo.csv')
+    glicko_df = pd.read_csv('website_creation/df_boy_glicko.csv')
     elo_title = 'Boys Elo Ranking'
     glicko_title = 'Boys Glicko Ranking'
 elif 'Other' in option:
-    elo_df = pd.read_csv('./website_creation/other_elo.csv')
-    glicko_df = pd.read_csv('./website_creation/other_glicko.csv')
+    elo_df = pd.read_csv('website_creation/other_elo.csv')
+    glicko_df = pd.read_csv('website_creation/other_glicko.csv')
     elo_title = 'Other Elo Ranking'
     glicko_title = 'Other Glicko Ranking'
 

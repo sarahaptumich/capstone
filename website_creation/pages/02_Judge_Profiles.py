@@ -2,13 +2,13 @@ import streamlit as st
 import pandas as pd
 from tabulate import tabulate
 
-st.sidebar.image("./website_creation/Logo_GPT.png", use_column_width=True)
+st.sidebar.image("website_creation/Logo_GPT.png", use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
 
 st.title('Judge Profiles')
 st.divider()
 
-df = pd.read_csv('./website_creation/judge_df.csv')
+df = pd.read_csv('website_creation/judge_df.csv')
 unique_names = df['Judge'].unique()
 names_list = list(unique_names)
 
