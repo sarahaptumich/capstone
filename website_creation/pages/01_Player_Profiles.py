@@ -13,7 +13,7 @@ st.set_page_config(
 st.title('Breaker Rankings')
 st.divider()
 
-st.sidebar.image('website_creation/Logo_GPT.png', use_column_width=True)
+st.sidebar.image('website_creation/Logo_GPT.PNG', use_column_width=True)
 st.sidebar.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
 
 options = ('Girls', 'Boys', 'Other')

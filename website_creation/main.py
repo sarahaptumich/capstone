@@ -19,7 +19,7 @@ st.title('Welcome to Settle it in the Cypher!')
 st.divider()
 st.subheader('Competitive Breaking Data Analysis')
 st.write('Open Breaking is a project to collect competitive breaking data and produce findings through analysis that can be incorporated into the further development of competitive breaking.')
-st.image('website_creation/Logo_GPT.png')
+st.image('website_creation/Logo_GPT.PNG')
 st.write(
 """
 Current projects that the team has worked are: 
