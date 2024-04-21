@@ -6,7 +6,4 @@ keras==3.2.1
 keras_tuner==1.4.7
 matplotlib==3.8.3
 numpy==1.24.3
-seaborn==0.13.2
-tensorflow==2.16.1
-tqdm==4.66.2
-tabulate==0.8.9
+
