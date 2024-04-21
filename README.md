@@ -9,7 +9,23 @@ This repository contains our Capstone for the Master’s in Applied Data Science
 - Sabrina Mahnke (smahnke@umich.edu)
 
 ## Installation
-All the auxiliary files necessary to run our notebooks are available in the `files` folder. Download and unzip on your local machine or Google Drive. Notebooks can be run directly from Google Colab or on your local machine.
+Auxiliary files to run the following notebooks are in the files folder download the folder  and unzip the files:
+- Brace_Angles_Analysis.ipynb
+- Brace_Classifier_Hyperparameter.ipynb
+- Brace_Dance_Classifier.ipynb
+- SIC_Ranking_System.ipynb
+- SIC_Scoring_Sys_Analysis.ipynb
+- Tensor_Board.ipynb
+For the folowing notebooks specific files are in this github
+- Video_Analysis_Dance_Duration.ipynb
+- data_exploration_judges(fatique).ipynb
+- data_exploration_judges(judge_bias).ipynb
+- data_exploration_judges(profiles).ipynb
+- data_exploration_judges3(normalized_winner).ipynb
+
+All files for the website (Streamlit App) are in the website_creation folder.
+
+
 
 ## Prerequisites
 ```bash
