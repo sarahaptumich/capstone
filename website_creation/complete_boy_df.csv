@@ -1,0 +1,1387 @@
+,Date,p1,p2,label
+0,2023-07-05,Kidmario,Noé,0
+1,2023-07-05,Killian,Wilfried,1
+2,2023-07-05,Noé,Wilfried,1
+3,2023-07-05,Kidmario,Killian,0
+4,2023-07-05,Kidmario,Wilfried,0
+5,2023-07-05,Killian,Noé,0
+6,2023-07-05,Dylan LO,Martin,0
+7,2023-07-05,Luka,Wali,1
+8,2023-07-05,Luka,Martin,1
+9,2023-07-05,Dylan LO,Wali,1
+10,2023-07-05,Dylan LO,Luka,0
+11,2023-07-05,Martin,Wali,1
+12,2023-07-05,Mounir,Yassif,0
+13,2023-07-05,Marlone,Sekou,1
+14,2023-07-05,Sekou,Yassif,0
+15,2023-07-05,Marlone,Mounir,0
+16,2023-07-05,Mounir,Sekou,1
+17,2023-07-05,Marlone,Yassif,1
+18,2023-07-05,Lucky,Nasty,0
+19,2023-07-05,Dany Dann,Fresh Mez,1
+20,2023-07-05,Fresh Mez,Lucky,0
+21,2023-07-05,Dany Dann,Nasty,1
+22,2023-07-05,Fresh Mez,Nasty,0
+23,2023-07-05,Dany Dann,Lucky,1
+55,2023-04-21,Amin Drillz,Hynamite,0
+56,2023-04-21,Hynamite,Sigma,1
+57,2023-04-21,Amin Drillz,Koda,1
+58,2023-04-21,El Vasi,Hynamite,0
+59,2023-04-21,Ghostface,Sigma,0
+60,2023-04-21,Amin Drillz,Pain,1
+61,2023-04-21,Koda,Rocknroli,1
+62,2023-04-21,Felipe Macanudo,Hynamite,0
+63,2023-04-21,El Vasi,Guti,1
+64,2023-04-21,Sigma,Valo,1
+65,2023-04-21,Flo,Ghostface,0
+66,2023-04-21,Amin Drillz,Julien,1
+67,2023-04-21,Kelt,Pain,0
+68,2023-04-21,Coolboy,Koda,0
+69,2023-04-21,Istwan,Rocknroli,0
+70,2023-03-05,Cis,Kid Colombia,0
+71,2023-03-05,Cis,Nazgul,1
+72,2023-03-05,Kid Colombia,Stepper,1
+73,2023-03-05,Nazgul,Toby,1
+74,2023-03-05,Cis,Timbo,1
+75,2023-03-05,IT,Kid Colombia,0
+76,2023-03-05,Stepper,Tawfiq,1
+77,2023-03-05,Liam,Nazgul,0
+78,2023-03-05,Kenji,Toby,0
+79,2023-03-05,Bentwood,Timbo,0
+80,2023-03-05,Cis,Levi,1
+81,2023-03-05,HD,Kid Colombia,0
+82,2023-03-05,IT,Legove,1
+83,2023-03-05,Bwanna,Stepper,0
+84,2023-03-05,Dullart,Tawfiq,0
+92,2023-02-19,Geru,Kangur,0
+93,2023-02-19,Geru,Minigun,1
+94,2023-02-19,Jee Ess,Kangur,0
+95,2023-02-19,Gieras,Minigun,0
+96,2023-02-19,Bartek,Geru,0
+97,2023-02-19,Kangur,Nikita,1
+98,2023-02-19,Jee Ess,Mysliwy,1
+99,2023-02-19,Chorzel,Gieras,0
+100,2023-02-19,Lil Drill,Minigun,0
+101,2023-02-19,Geru,Zawisza,1
+102,2023-02-19,Amstaff,Bartek,0
+103,2023-02-19,2Haj,Kangur,0
+104,2023-02-19,Martin,Nikita,0
+105,2023-02-19,Brzoza,Jee Ess,0
+106,2023-02-19,Mefedroniks,Mysliwy,0
+129,2022-11-11,Lil Zoo,Wigor,1
+130,2022-11-11,Mighty Jim,Wigor,0
+131,2022-11-11,Illz,Lil Zoo,0
+132,2022-11-11,Ali,Wigor,0
+133,2022-11-11,Mighty Jim,Mini Joe,1
+134,2022-11-11,Illz,Ozzi,1
+135,2022-11-11,Issin,Lil Zoo,0
+136,2022-11-11,Create,Wigor,0
+137,2022-11-11,Ali,Mathis,1
+138,2022-11-11,Cri6,Mighty Jim,0
+139,2022-11-11,Jester,Mini Joe,0
+140,2022-11-11,Illz,Leony,1
+141,2022-11-11,Onel,Ozzi,0
+142,2022-11-11,Flying Machine,Lil Zoo,0
+143,2022-11-11,Daga,Issin,0
+159,2022-11-12,Lee,Victor,0
+160,2022-11-12,Victor,Yu-ki,1
+161,2022-11-12,Issin,Lee,0
+162,2022-11-12,Phil Wizard,Victor,0
+163,2022-11-12,Lil Zoo,Yu-ki,0
+164,2022-11-12,Amir,Lee,0
+165,2022-11-12,Alvin,Issin,0
+166,2022-11-12,Marlone,Victor,0
+167,2022-11-12,Mini Joe,Phil Wizard,0
+168,2022-11-12,Wigor,Yu-ki,0
+169,2022-11-12,Lil Zoo,Wildchild,1
+170,2022-11-12,Illz,Lee,0
+171,2022-11-12,Amir,Mighty Jim,1
+172,2022-11-12,Issin,Lorenzo,1
+173,2022-11-12,Alvin,Quake,1
+194,2022-07-08,Chau-Lin,Double D,1
+195,2022-07-08,Chau-Lin,Cicov,1
+196,2022-07-08,Double D,Light,1
+197,2022-07-08,Artform,Cicov,0
+198,2022-07-08,Chau-Lin,Sarro,1
+199,2022-07-08,Light,Termi,1
+200,2022-07-08,Double D,Flo,1
+201,2022-07-08,Artform,DeadlyDani,1
+202,2022-07-08,Cicov,Toni,1
+203,2022-07-08,Sarro,Yosemite Sam,1
+204,2022-07-08,Chau-Lin,Mik the Menace,1
+205,2022-07-08,Light,Red Rock,1
+206,2022-07-08,LamJino,Termi,0
+207,2022-07-08,Erik Daily,Flo,0
+208,2022-07-08,Double D,Tapio,1
+223,2022-04-16,Lil Zoo,Marox,1
+224,2022-04-16,Hynamite,Lil Zoo,0
+225,2022-04-16,Istwan,Marox,0
+226,2022-04-16,Lil Zoo,Marci Marc,1
+227,2022-04-16,Amin Drillz,Hynamite,0
+228,2022-04-16,Animus,Istwan,0
+229,2022-04-16,Ibot,Marox,0
+230,2022-04-16,Lil Zoo,Mogli,1
+231,2022-04-16,Marci Marc,Philmo,1
+232,2022-04-16,Hynamite,Roc Lee,1
+233,2022-04-16,Amin Drillz,Töma,1
+234,2022-04-16,Animus,Sevone,1
+235,2022-04-16,Ghostface,Istwan,0
+236,2022-04-16,Koda,Marox,0
+237,2022-04-16,Ibot,Rock'n'Roli,1
+260,2021-10-14,Amir,Nori,0
+261,2021-10-14,Amir,Johnny Fox,1
+262,2021-10-14,Lee,Nori,0
+263,2021-10-14,Johnny Fox,Kuzya,1
+264,2021-10-14,Amir,Pac Pac,1
+265,2021-10-14,Lion,Nori,0
+266,2021-10-14,Lee,Quake,1
+267,2021-10-14,Jester,Johnny Fox,0
+268,2021-10-14,Kuzya,Sheku,1
+269,2021-10-14,Pac Pac,Pesto,1
+270,2021-10-14,Amir,Morris,1
+271,2021-10-14,Lion,Shane,1
+272,2021-10-14,Nori,Wild Child,1
+273,2021-10-14,Lee,Mini Joe,1
+274,2021-10-14,Quake,The Wolfer,1
+290,2021-11-05,Amir,Phil Wizard,1
+291,2021-11-05,Amir,Flea Rock,1
+292,2021-11-05,Lee,Phil Wizard,0
+293,2021-11-05,Flea Rock,Shigekix,1
+294,2021-11-05,Amir,Zoopreme,1
+295,2021-11-05,Bart,Phil Wizard,0
+296,2021-11-05,Lee,TawfiQ,1
+297,2021-11-05,Johnny Fox,Shigekix,0
+298,2021-11-05,Flea Rock,Thomaz,1
+299,2021-11-05,Amir,Sunni,1
+300,2021-11-05,Wild Jerry,Zoopreme,0
+301,2021-11-05,Nori,Phil Wizard,0
+302,2021-11-05,Bart,Lagaet,1
+303,2021-11-05,Lee,Xak,1
+304,2021-11-05,Gun,TawfiQ,0
+334,2020-11-28,Alkolil,Shigekix,0
+335,2020-11-28,Alkolil,Lil Zoo,1
+336,2020-11-28,Shigekix,Vero,1
+337,2020-11-28,Alkolil,Pac Pac,1
+338,2020-11-28,Lil Zoo,Philip,1
+339,2020-11-28,Killa-Kolya,Vero,0
+340,2020-11-28,Kid Karam,Shigekix,0
+378,2020-04-21,Mini Joe,Zip Rock,1
+379,2020-04-21,Cheerito,Zip Rock,0
+380,2020-04-21,Gun,Mini Joe,0
+381,2020-04-21,Cheerito,NoIndex,1
+382,2020-04-21,Exaggerate,Zip Rock,0
+383,2020-04-21,Cis,Gun,0
+384,2020-04-21,D-Prank,Mini Joe,0
+385,2020-04-21,Cheerito,Elvis,1
+386,2020-04-21,Banana Joe,NoIndex,0
+387,2020-04-21,Kap,Zip Rock,0
+388,2020-04-21,Exaggerate,OK,1
+389,2020-04-21,Gun,Vicious,1
+390,2020-04-21,Cis,Nazgul,1
+391,2020-04-21,D-Prank,Timbo,1
+392,2020-04-21,Lorenzo,Mini Joe,0
+393,2020-04-21,Cheerito,Uho,1
+394,2020-04-21,Elvis,Noé,1
+395,2020-04-21,Banana Joe,Movycube,1
+396,2020-04-21,Kirill Green,NoIndex,0
+397,2020-04-21,R-One,Zip Rock,0
+398,2020-04-21,Kap,Leon,1
+399,2020-04-21,OK,Warrior,1
+400,2020-04-21,Exaggerate,Lucas,1
+401,2020-04-21,Gatoty,Vicious,0
+402,2020-04-21,Gun,Question,1
+403,2020-04-21,Drain,Nazgul,0
+404,2020-04-21,Cis,Justice,1
+405,2020-04-21,D-Prank,Killa Sebi,1
+406,2020-04-21,Drill One,Timbo,0
+407,2020-04-21,Mathis,Mini Joe,0
+408,2020-04-21,A-S,Lorenzo,0
+446,2019-09-20,Anton,Double D,1
+447,2019-09-20,Double D,Qube,1
+448,2019-09-20,Anton,Flex Holik,1
+449,2019-09-20,Mayo,Qube,0
+450,2019-09-20,Artform,Double D,0
+451,2019-09-20,Flex Holik,NoIndex,1
+452,2019-09-20,Anton,Light,1
+453,2019-09-20,Qube,Wall-D,1
+454,2019-09-20,Itz#Me,Mayo,0
+455,2019-09-20,Artform,KcOne,1
+456,2019-09-20,Double D,Toschkin,1
+457,2019-09-20,NoIndex,Tai,1
+458,2019-09-20,Flex Holik,Soulex,1
+459,2019-09-20,Flo,Light,0
+460,2019-09-20,Anton,Gizmo,1
+461,2019-08-17,Nori,Shigekix,1
+462,2019-08-17,Gen Roc,Shigekix,0
+463,2019-08-17,Nori,Okey Joe,1
+464,2019-08-17,Kossy,Shigekix,0
+465,2019-08-17,Gen Roc,Yosh is Stoic,1
+466,2019-08-17,Okey Joe,Ryo Flow,1
+467,2019-08-17,Nori,Wing Zero,1
+468,2019-08-17,KaZuMi,Kossy,0
+469,2019-08-17,Hokt,Shigekix,0
+470,2019-08-17,Toa,Yosh is Stoic,0
+471,2019-08-17,Gen Roc,Yu-ki,1
+472,2019-08-17,Kanta,Okey Joe,0
+473,2019-08-17,Ryo Flow,Uki on Fire,1
+474,2019-08-17,Lil En,Wing Zero,0
+475,2019-08-17,Nori,Yu Ski,1
+483,2019-04-13,Izaak,Jackson,0
+484,2019-04-13,Infante,Jackson,0
+485,2019-04-13,Izaak,Sheku,1
+486,2019-04-13,Gribz,Jackson,0
+487,2019-04-13,Infante,Razzle Roc,1
+488,2019-04-13,Izaak,Kid Kelvin,1
+489,2019-04-13,Marius,Sheku,0
+490,2019-04-13,AJ The Cypher Cat,Gribz,0
+491,2019-04-13,Jackson,Sunni,0
+492,2019-04-13,Echo,Razzle Roc,0
+493,2019-04-13,Eggy,Infante,0
+494,2019-04-13,Izaak,Victor J.,1
+495,2019-04-13,Daz,Kid Kelvin,0
+496,2019-04-13,Sheku,Shoggs,1
+497,2019-04-13,Enos,Marius,0
+542,2019-03-16,Lucky,Simon,0
+543,2019-03-16,Admiracles,Lucky,0
+544,2019-03-16,Sambo,Simon,0
+545,2019-03-16,Admiracles,Faisi,1
+546,2019-03-16,Lucky,Rateb,1
+547,2019-03-16,Jona,Sambo,0
+548,2019-03-16,Simon,XL,1
+549,2019-03-16,Admiracles,Saidon,1
+550,2019-03-16,Adi Mino,Faisi,0
+551,2019-03-16,Dacos,Rateb,0
+552,2019-03-16,Kevin,Lucky,0
+553,2019-03-16,Jona,Lawson,1
+554,2019-03-16,Fababy,Sambo,0
+555,2019-03-16,Titris,XL,0
+556,2019-03-16,Hayabusa,Simon,0
+730,2023-06-07,Baruzzo,Elpablix,1
+731,2023-06-07,Faby,Yoga,1
+732,2023-06-07,Elpablix,Faby,1
+733,2023-06-07,Baruzzo,Yoga,1
+734,2023-06-07,Elpablix,Reel,1
+735,2023-06-07,Diggo,Faby,0
+736,2023-06-07,Baruzzo,Messy,1
+737,2023-06-07,Riki,Yoga,0
+738,2023-06-07,Big Leo,Elpablix,0
+739,2023-06-07,Dado,Reel,0
+740,2023-06-07,Faby,Flow,1
+741,2023-06-07,Diggo,Spin,1
+742,2023-06-07,Baruzzo,Biagix,1
+743,2023-06-07,Messy,Roman Reigns,1
+744,2023-06-07,Blue B,Riki,0
+745,2023-06-07,Gazza,Yoga,0
+746,2023-06-07,Edo,Leo,1
+747,2023-06-07,Gabriblu,Tiger,1
+748,2023-06-07,Leo,Tiger,1
+749,2023-06-07,Edo,Gabriblu,1
+750,2023-06-07,Alex,Leo,0
+751,2023-06-07,Markino,Tiger,0
+752,2023-06-07,Gabriblu,Poppy,1
+753,2023-06-07,Edo,Macaco,1
+754,2023-06-07,Leo,Yak,1
+755,2023-06-07,Alex,Dedo,1
+756,2023-06-07,Flex,Tiger,0
+757,2023-06-07,Diego,Markino,0
+758,2023-06-07,Gattoboy,Poppy,0
+759,2023-06-07,Chris,Gabriblu,0
+760,2023-06-07,Edo,Sketch,1
+761,2023-06-07,Macaco,Scugnizzu,1
+762,2023-06-07,Mattix,Snap,0
+763,2023-06-07,Blaze,Spider,0
+764,2023-06-07,Blaze,Snap,0
+765,2023-06-07,Mattix,Spider,1
+766,2023-06-07,Eros,Snap,0
+767,2023-06-07,Blaze,Comix,1
+768,2023-06-07,Mattix,Tommy,1
+769,2023-06-07,Ryk,Spider,0
+770,2023-06-07,Formica Atomica,Slavi,1
+771,2023-06-07,Ant,Cat,1
+772,2023-06-07,Ant,Slavi,0
+773,2023-06-07,Cat,Formica Atomica,0
+774,2023-06-07,Matty,Slavi,0
+775,2023-06-07,Ant,Mariooo,1
+776,2023-06-07,Formica Atomica,Too Mucht,1
+777,2023-06-07,Cat,Ciccio,1
+778,2023-06-07,Sanza,Yuri,0
+779,2023-06-07,Amos,Frenzy,1
+780,2023-06-07,Amos,Yuri,0
+781,2023-06-07,Frenzy,Sanza,0
+782,2023-06-07,Dado,Yuri,0
+783,2023-06-07,Amos,Stick,1
+784,2023-06-07,Bisso,Frenzy,0
+785,2023-06-07,Drillo,Sanza,0
+786,2023-06-07,Simo,Simox,1
+787,2023-06-07,Justigno,Kliker,1
+788,2023-06-07,Kliker,Simox,0
+789,2023-06-07,Justigno,Simo,0
+790,2023-06-07,Kimba,Lil-Cat,1
+844,2023-07-08,Chau-lin,M17,0
+845,2023-07-08,Deadly Dani,Double D,0
+846,2023-07-08,Deadly Dani,M17,0
+847,2023-07-08,Chau-lin,Double D,1
+848,2023-07-08,Deadly Dani,Flo,1
+849,2023-07-08,Cheetah D,M17,0
+850,2023-07-08,Chau-lin,Cicov,1
+851,2023-07-08,Double D,Red Rock,1
+852,2023-07-08,High5,Red Rock,0
+853,2023-07-08,Deadly Dani,Toschkin,1
+854,2023-07-08,High5,Toschkin,1
+855,2023-07-08,Deadly Dani,Red Rock,1
+856,2023-07-08,Red Rock,Toschkin,1
+857,2023-07-08,Deadly Dani,High5,1
+858,2023-07-08,Cheetah D,Snow,1
+859,2023-07-08,Ali,Chau-lin,0
+860,2023-07-08,Ali,Snow,1
+862,2023-07-08,Ali,Cheetah D,0
+863,2023-07-08,Chau-lin,Snow,1
+864,2023-07-08,LamJiiiinoooo,M17,0
+865,2023-07-08,Cicov,Plarent,1
+866,2023-07-08,M17,Plarent,1
+867,2023-07-08,Cicov,LamJiiiinoooo,1
+868,2023-07-08,LamJiiiinoooo,Plarent,0
+869,2023-07-08,Cicov,M17,0
+870,2023-07-08,Flo,Midas,1
+871,2023-07-08,Double D,Qube,1
+872,2023-07-08,Flo,Qube,1
+873,2023-07-08,Double D,Midas,1
+874,2023-07-08,Midas,Qube,0
+875,2023-07-08,Double D,Flo,1
+876,2023-07-08,Double D,Sebastian,1
+877,2023-07-08,Ali,Itz#Me,1
+878,2023-07-08,Flo,YelloCat,1
+879,2023-07-08,Midas,dani.rock,1
+880,2023-07-08,Deadly Dani,Taz,1
+881,2023-07-08,Minh,Qube,0
+882,2023-07-08,AirMax,High5,0
+883,2023-07-08,Dah Biest,Red Rock,0
+884,2023-07-08,Cicov,Punkt,1
+885,2023-07-08,Plarent,Shark,1
+886,2023-07-08,M17,Space,1
+887,2023-07-08,LamJiiiinoooo,Owtwo,1
+888,2023-07-08,Chau-lin,Hungry Hicky,1
+889,2023-07-08,Lafilove,Toschkin,0
+890,2023-07-08,Reza,Snow,0
+891,2023-07-08,Cheetah D,Vic,1
+896,2023-06-25,Haruto,Renrën,0
+897,2023-06-25,Haruto,Rion,1
+898,2023-06-25,Ko-taro,Renrën,0
+899,2023-06-25,Orion,Rion,0
+900,2023-06-25,Haruto,Riou,1
+901,2023-06-25,Jui,Ko-taro,0
+902,2023-06-25,Renrën,Tomoki,1
+910,2023-06-25,Mebius,Tsukki,0
+911,2023-06-25,Tsukki,yuwma,1
+912,2023-06-25,Mebius,Ra1on,1
+913,2023-06-25,Soushi,Tsukki,0
+914,2023-06-25,Sataandagi,yuwma,0
+915,2023-06-25,Mebius,rakachi,1
+916,2023-06-25,Ra1on,Teng Rock,1
+921,2023-06-24,Apache,Bazuka,1
+922,2023-06-24,Jackm8,Killya,0
+923,2023-06-24,Apache,Jackm8,1
+924,2023-06-24,Bazuka,Killya,1
+925,2023-06-24,Apache,Eddy,1
+926,2023-06-24,Jackm8,Teddy,1
+927,2023-06-24,Killya,Rule,1
+928,2023-06-24,Bazuka,Skyline,1
+929,2023-06-24,Apache,Arash,1
+930,2023-06-24,Eddy,Lucas Paul,1
+931,2023-06-24,Jackm8,Spy,1
+932,2023-06-24,Paul,Teddy,0
+933,2023-06-24,Cün8,Killya,0
+934,2023-06-24,Benjamin,Rule,0
+935,2023-06-24,Masco,Skyline,0
+936,2023-06-24,Bazuka,Leonardo,1
+957,2023-10-14,Cicov,Saïd,0
+958,2023-10-14,Chau-lin,Erik Daily,0
+959,2023-10-14,Chau-lin,Saïd,0
+960,2023-10-14,Cicov,Erik Daily,1
+961,2023-10-14,Babbey,Chau-lin,0
+962,2023-10-14,Flo,Saïd,0
+963,2023-10-14,Cicov,Owtwo,1
+964,2023-10-14,Erik Daily,Snow,1
+965,2023-10-14,Babbey,Vic,1
+966,2023-10-14,Chau-lin,Midas,1
+967,2023-10-14,Saïd,Yanski,1
+968,2023-10-14,Flo,Tayfun,1
+969,2023-10-14,Owtwo,Roh-D,1
+970,2023-10-14,Airmax,Cicov,0
+971,2023-10-14,Shika,Snow,0
+972,2023-10-14,Erik Daily,Red Rock,1
+973,2023-10-14,FloyDthe47,Vic,0
+974,2023-10-14,Babbey,YelloCat,1
+975,2023-10-14,Midas,Plarent,1
+976,2023-10-14,Chau-lin,PVL,1
+977,2023-10-14,Lam Zon,Yanski,0
+978,2023-10-14,Itz#Me,Saïd,0
+979,2023-10-14,Minh,Tayfun,0
+980,2023-10-14,Awake,Flo,0
+981,2023-10-14,Roh-D,Shark,1
+982,2023-10-14,Owtwo,Sebastian,1
+983,2023-10-14,Cicov,P70,1
+984,2023-10-14,Airmax,DeadlyDani,1
+985,2023-10-14,Snow,Taz,1
+986,2023-10-14,LamJiiiinoooo,Shika,0
+987,2023-10-14,Dima,Red Rock,0
+988,2023-10-14,Erik Daily,Niar,1
+1005,2023-06-23,Alvin,Phil Wizard,0
+1006,2023-06-23,Alvin,Thesis,1
+1007,2023-06-23,Kid Karam,Phil Wizard,0
+1008,2023-06-23,Shaymin,Thesis,0
+1009,2023-06-23,Alvin,Kaê,1
+1010,2023-06-23,Kid Karam,Lucky,1
+1011,2023-06-23,Cis,Phil Wizard,0
+1012,2023-06-23,Shaymin,Willastr8,1
+1013,2023-06-23,Bad Matty,Thesis,0
+1014,2023-06-23,Kaê,Zoon,1
+1015,2023-06-23,Alvin,Matita,1
+1016,2023-06-23,Jacks,Lucky,0
+1017,2023-06-23,Kid Colombia,Kid Karam,0
+1018,2023-06-23,Ceebri,Cis,0
+1019,2023-06-23,Phil Wizard,Sheku,1
+1027,2023-06-16,Hood,Rhythm Box,0
+1028,2023-06-16,B-rage,Mowgli,0
+1029,2023-06-16,B-rage,Rhythm Box,0
+1030,2023-06-16,Hood,Mowgli,1
+1031,2023-06-16,B-rage,Benji,1
+1032,2023-06-16,Rhythm Box,SAUS,1
+1033,2023-06-16,Hood,Iverson,1
+1034,2023-06-16,Monk,Mowgli,0
+1071,2023-04-06,Mighty Jimm,Said,1
+1072,2023-04-06,Daniel,Ramy,1
+1073,2023-04-06,El Nino,Mattix,1
+1074,2023-04-06,M17,Quake,0
+1075,2023-04-06,Ninonino,Pesto,0
+1076,2023-04-06,Frankie,Neosan,0
+1077,2023-04-06,Bowzee,Dux-M,1
+1078,2023-04-06,Deadly Dani,Kill,0
+1079,2023-04-06,Mass,Neo,1
+1080,2023-04-06,Flo,Shade,1
+1081,2023-04-06,Think,Tsukki,0
+1082,2023-04-06,Onton,Wigor,0
+1083,2023-04-06,Nasty,Onel,1
+1084,2023-04-06,Hiro10,Poter,1
+1085,2023-04-06,Cis,Wing,0
+1086,2023-04-06,C Plus,Lilbom,0
+1087,2023-04-06,Mass,Wing,0
+1088,2023-04-06,Hiro10,Quake,1
+1089,2023-04-06,Hiro10,Wing,0
+1090,2023-04-06,Mass,Quake,1
+1091,2023-04-06,Tsukki,Wing,0
+1092,2023-04-06,Hiro10,Wigor,1
+1093,2023-04-06,Mass,Mighty Jimm,1
+1094,2023-04-06,Lilbom,Quake,0
+1095,2023-04-06,Bowzee,Wing,0
+1096,2023-04-06,Pesto,Tsukki,0
+1097,2023-04-06,Hiro10,Kill,1
+1098,2023-04-06,El Nino,Wigor,0
+1099,2023-04-06,Mighty Jimm,Nasty,1
+1100,2023-04-06,Daniel,Mass,0
+1101,2023-04-06,Flo,Quake,0
+1102,2023-04-06,Lilbom,Neosan,1
+1151,2023-02-24,Amir,Jeffro,1
+1152,2023-02-24,Kuzya,Shigekix,0
+1153,2023-02-24,Jeffro,Kuzya,1
+1154,2023-02-24,Amir,Shigekix,1
+1155,2023-02-24,Jeffro,Lee,1
+1156,2023-02-24,Issin,Kuzya,0
+1157,2023-02-24,Gravity,Shigekix,0
+1158,2023-02-24,Amir,Menno,1
+1160,2023-02-24,Quake,Sunni,0
+1161,2023-02-24,Menno,Quake,1
+1162,2023-02-24,Lee,Sunni,1
+1163,2023-02-24,Lee,Quake,1
+1166,2023-02-24,Issin,Shigekix,0
+1167,2023-02-24,Dany Dann,Issin,0
+1168,2023-02-24,Shigekix,Xak,1
+1169,2023-02-24,Issin,Xak,1
+1170,2023-02-24,Dany Dann,Shigekix,0
+1171,2023-02-24,Kill,Kuzya,0
+1172,2023-02-24,Gravity,Toa,1
+1173,2023-02-24,Kuzya,Toa,1
+1174,2023-02-24,Gravity,Kill,1
+1175,2023-02-24,Kill,Toa,1
+1176,2023-02-24,Gravity,Kuzya,0
+1179,2023-02-24,Jeffro,Wing,1
+1180,2023-02-24,Amir,Phil Wizard,1
+1181,2023-02-24,Amir,Wing,1
+1182,2023-02-24,Jeffro,Phil Wizard,0
+1183,2023-02-24,Lee,Leon,1
+1184,2023-02-24,Lucky,Quake,0
+1185,2023-02-24,Jw Fresh,Sunni,0
+1186,2023-02-24,Jeffro,Lagaet,1
+1187,2023-02-24,Khalil,Xak,0
+1188,2023-02-24,Amir,Kid Karam,1
+1189,2023-02-24,Kuzya,Lithe-ing,1
+1190,2023-02-24,Kill,Lil Zoo,1
+1191,2023-02-24,Menno,Wigor,1
+1192,2023-02-24,Daniel,Issin,0
+1193,2023-02-24,Cis,Toa,0
+1194,2023-02-24,Gravity,Lil G,1
+1195,2023-02-24,Lussy Sky,Wing,0
+1196,2023-02-24,Shigekix,X-Rain,1
+1197,2023-02-24,Lorenzo,Phil Wizard,0
+1198,2023-02-24,Dany Dann,Onton,1
+1199,2023-02-24,Lego,Onton,0
+1200,2023-02-24,Quake,Sheku,1
+1201,2023-02-24,Grazy,Toa,0
+1202,2023-02-24,Jw Fresh,Mowgly,1
+1203,2023-02-24,Jest,Lorenzo,0
+1204,2023-02-24,Fat,Kill,0
+1205,2023-02-24,Leony,Lil Zoo,0
+1206,2023-02-24,Poter,X-Rain,0
+1207,2023-02-24,Hatsolo,Lithe-ing,0
+1208,2023-02-24,Deadly Dani,Lee,0
+1209,2023-02-24,Kleju,Wing,0
+1210,2023-02-24,Killa Kolya,Menno,0
+1211,2023-02-24,Issin,Lilma,1
+1212,2023-02-24,Broly,Lil G,0
+1213,2023-02-24,Amir,Kastrito,1
+1214,2023-02-24,JohnnyFox,Leon,0
+1215,2023-02-24,Lucky,Moa,1
+1216,2023-02-24,Cis,Flying Machine,1
+1217,2023-02-24,M17,Sunni,0
+1218,2023-02-24,Exaggerate,Lagaet,0
+1219,2023-02-24,Khalil,Luan San,1
+1220,2023-02-24,Gravity,Willy Roc,1
+1221,2023-02-24,Snap,Xak,0
+1222,2023-02-24,Daniel,Popster,1
+1223,2023-02-24,Lussy Sky,Minigun,1
+1224,2023-02-24,Cri,Wigor,0
+1225,2023-02-24,Jeffro,Rato,1
+1226,2023-02-24,Shigekix,Tornado,1
+1227,2023-02-24,Double D,Kid Karam,0
+1228,2023-02-24,Kalmius,Kuzya,0
+1229,2023-02-24,Dux-M,Phil Wizard,0
+1230,2023-02-24,Dany Dann,Mons,1
+1279,2022-11-05,Dany Dann,Kid Karam,1
+1280,2022-11-05,Daniel,Wigor,0
+1281,2022-11-05,Daniel,Dany Dann,0
+1282,2022-11-05,Kid Karam,Wigor,1
+1283,2022-11-05,Daniel,Lagaet,1
+1284,2022-11-05,Dany Dann,Kuzya,1
+1285,2022-11-05,Exaggerate,Kid Karam,0
+1286,2022-11-05,Lee,Wigor,0
+1287,2022-11-05,Grazy,Lagaet,0
+1288,2022-11-05,Lee,Menno,1
+1289,2022-11-05,Lagaet,Menno,1
+1290,2022-11-05,Grazy,Lee,0
+1291,2022-11-05,Grazy,Menno,0
+1292,2022-11-05,Lagaet,Lee,1
+1293,2022-11-05,Deeogo,Tirock,1
+1294,2022-11-05,Kid Karam,Kuzya,1
+1295,2022-11-05,Deeogo,Kuzya,0
+1296,2022-11-05,Kid Karam,Tirock,1
+1297,2022-11-05,Kuzya,Tirock,1
+1298,2022-11-05,Deeogo,Kid Karam,0
+1299,2022-11-05,Exaggerate,Jet Leg,1
+1300,2022-11-05,Dany Dann,Intact,1
+1301,2022-11-05,Dany Dann,Jet Leg,1
+1302,2022-11-05,Exaggerate,Intact,1
+1303,2022-11-05,Dany Dann,Exaggerate,0
+1304,2022-11-05,Intact,Jet Leg,0
+1305,2022-11-05,Snap,Wigor,0
+1307,2022-11-05,Daniel,Snap,1
+1308,2022-11-05,Sunni,Wigor,0
+1310,2022-11-05,Snap,Sunni,0
+1311,2022-11-05,Chen,Grazy,0
+1312,2022-11-05,Marrson,Tirock,0
+1313,2022-11-05,Bruce Almighty,Snap,0
+1314,2022-11-05,Fat,Jet Leg,0
+1315,2022-11-05,Exaggerate,Lorenzo,1
+1316,2022-11-05,Lagaet,Moa,1
+1317,2022-11-05,Menno,XL,1
+1318,2022-11-05,Amin Drillz,Lee,0
+1319,2022-11-05,Lucky,Wigor,0
+1320,2022-11-05,Khalil,Kid Karam,0
+1321,2022-11-05,Amaro,Intact,0
+1322,2022-11-05,Mighty Jimm,Sunni,0
+1323,2022-11-05,Cis,Deeogo,0
+1324,2022-11-05,Kuzya,Nasty,1
+1325,2022-11-05,Daniel,Lussy Sky,1
+1326,2022-11-05,Dany Dann,Xak,1
+1327,2022-11-05,Bad Matty,Grazy,0
+1328,2022-11-05,Martin,Mighty Jimm,0
+1329,2022-11-05,Bruce Almighty,MiniGun,1
+1330,2022-11-05,Fat,Justice,1
+1331,2022-11-05,Lorenzo,Spider,1
+1332,2022-11-05,Deeogo,M17,1
+1333,2022-11-05,Elmonaattori,Exaggerate,0
+1334,2022-11-05,Chen,Willy,1
+1335,2022-11-05,Lil Kev,Marrson,0
+1336,2022-11-05,Kaneki,Moa,0
+1337,2022-11-05,Menno,Sheku,1
+1338,2022-11-05,Lee,Said,1
+1339,2022-11-05,Lagaet,Tricky,1
+1340,2022-11-05,Erwan,Wigor,0
+1341,2022-11-05,Kid Karam,Nazgul,1
+1342,2022-11-05,Deijva,Intact,0
+1343,2022-11-05,Laziness,Sunni,0
+1344,2022-11-05,Deadly Dani,XL,0
+1345,2022-11-05,Amin Drillz,Flying Buddha,1
+1346,2022-11-05,Mattix,Nasty,0
+1347,2022-11-05,Daniel,Flaya,1
+1348,2022-11-05,Poter,Snap,0
+1349,2022-11-05,Double D,Tirock,0
+1350,2022-11-05,Hatsolo,Lucky,0
+1351,2022-11-05,Amaro,Mowgly,1
+1352,2022-11-05,Cis,Neosan,1
+1353,2022-11-05,Kae,Khalil,0
+1354,2022-11-05,Jet Leg,Lil Zoo,1
+1355,2022-11-05,Dany Dann,Kleju,1
+1356,2022-11-05,Cis,Kuzya,0
+1357,2022-11-05,Lussy Sky,Pesto,1
+1358,2022-11-05,JohnnyFox,Xak,0
+1439,2022-10-21,Phil Wizard,Shigekix,1
+1440,2022-10-21,Kuzya,Victor,0
+1441,2022-10-21,Phil Wizard,Victor,1
+1442,2022-10-21,Kuzya,Shigekix,0
+1443,2022-10-21,Lussy Sky,Shigekix,0
+1444,2022-10-21,Gravity,Victor,0
+1445,2022-10-21,Jeffro,Phil Wizard,0
+1446,2022-10-21,Kill,Kuzya,0
+1447,2022-10-21,Gravity,Lussy Sky,0
+1448,2022-10-21,Gravity,Zooty Zoot,1
+1449,2022-10-21,Lussy Sky,Zooty Zoot,1
+1450,2022-10-21,Khalil,Zooty Zoot,0
+1451,2022-10-21,Khalil,Lussy Sky,0
+1452,2022-10-21,Gravity,Khalil,1
+1453,2022-10-21,Jeffro,Kuzya,0
+1454,2022-10-21,Dany Dann,Jeffro,0
+1455,2022-10-21,Dany Dann,Kuzya,0
+1456,2022-10-21,Kuzya,Xak,1
+1457,2022-10-21,Jeffro,Xak,1
+1458,2022-10-21,Dany Dann,Xak,1
+1459,2022-10-21,Kill,Phil Wizard,0
+1460,2022-10-21,Leon,Phil Wizard,0
+1461,2022-10-21,Kill,Leon,1
+1462,2022-10-21,Kill,Lilbom,1
+1463,2022-10-21,Leon,Lilbom,1
+1464,2022-10-21,Lilbom,Phil Wizard,0
+1465,2022-10-21,Shigekix,Victor,1
+1466,2022-10-21,Daniel,Shigekix,0
+1467,2022-10-21,Daniel,Victor,0
+1468,2022-10-21,Daniel,Ra1on,1
+1469,2022-10-21,Ra1on,Victor,0
+1470,2022-10-21,Ra1on,Shigekix,0
+1471,2022-10-21,Phil Wizard,Wigor,1
+1472,2022-10-21,Gravity,Kid Karam,1
+1473,2022-10-21,Cri6,Jeffro,0
+1474,2022-10-21,Daniel,Marlone,1
+1475,2022-10-21,Amir,Zooty Zoot,0
+1476,2022-10-21,Kuzya,Vero,1
+1477,2022-10-21,Ra1on,Sunni,1
+1478,2022-10-21,Kalmius,Khalil,1
+1479,2022-10-21,Dany Dann,Morris,1
+1480,2022-10-21,Issin,Lussy Sky,0
+1481,2022-10-21,Lagaet,Xak,0
+1482,2022-10-21,Kill,Lil Zoo,1
+1483,2022-10-21,Issei,Victor,0
+1484,2022-10-21,Intact,Lilbom,0
+1485,2022-10-21,Leon,X-Rain,1
+1486,2022-10-21,Leony,Shigekix,0
+1487,2022-10-21,Cri6,Hiro10,1
+1488,2022-10-21,Kid Karam,Nasty,1
+1489,2022-10-21,Matita,Wigor,0
+1490,2022-10-21,Illz,Phil Wizard,0
+1491,2022-10-21,C Plus,Shigekix,0
+1492,2022-10-21,Comet,Victor,0
+1493,2022-10-21,Cis,Kuzya,0
+1494,2022-10-21,Lussy Sky,Tsukki,1
+1495,2022-10-21,Gravity,M17,1
+1496,2022-10-21,Jeffro,Luan San,1
+1497,2022-10-21,Kill,Lithe-ing,1
+1498,2022-10-21,Dany Dann,Madtrack,1
+1499,2022-10-21,Leon,Quake,1
+1500,2022-10-21,Lorenzo,Zooty Zoot,0
+1501,2022-10-21,Daniel,Pocket,1
+1502,2022-10-21,Dol,Ra1on,0
+1503,2022-10-21,Deeogo,Xak,0
+1504,2022-10-21,Khalil,Toa,1
+1505,2022-10-21,Jasper,Lilbom,0
+1506,2022-10-21,Marlone,ShowMilk,1
+1507,2022-10-21,Amir,Twister,1
+1508,2022-10-21,Vero,Woosong,1
+1509,2022-10-21,Shade,Sunni,0
+1510,2022-10-21,Kalmius,Lil G,1
+1511,2022-10-21,Lilma,Morris,0
+1512,2022-10-21,Frankie,Issin,0
+1513,2022-10-21,Lagaet,Mowgly,1
+1514,2022-10-21,Lil Zoo,Poter,1
+1515,2022-10-21,Issei,Tsubasa,1
+1516,2022-10-21,Double D,Intact,0
+1517,2022-10-21,Sheku,X-Rain,0
+1518,2022-10-21,Leony,Moa,1
+1519,2022-10-21,LookOut,Wigor,0
+1520,2022-10-21,Cri6,Murda Ron,1
+1521,2022-10-21,Lithe-ing,Nesco,1
+1522,2022-10-21,Brokoli,Deeogo,0
+1523,2022-10-21,Lil G,Wenlong,1
+1524,2022-10-21,Devil,Pocket,0
+1525,2022-10-21,Matto,Nasty,0
+1526,2022-10-21,Cis,Kleju,1
+1527,2022-10-21,El Nino,Tsubasa,0
+1528,2022-10-21,Fat,Toa,0
+1529,2022-10-21,Matita,Onton,1
+1530,2022-10-21,Kid Karam,What21,1
+1531,2022-10-21,Lorenzo,XL,1
+1532,2022-10-21,Amin Drillz,Luan San,0
+1533,2022-10-21,Grazy,M17,0
+1534,2022-10-21,Superdragon,Victor,0
+1535,2022-10-21,Kuzya,Minh,1
+1536,2022-10-21,Toufeeq,Zooty Zoot,0
+1537,2022-10-21,Daniel,Rsn,1
+1538,2022-10-21,Rush,Xak,0
+1539,2022-10-21,Groot,Khalil,0
+1540,2022-10-21,Lilbom,Vicious,1
+1541,2022-10-21,Jeian,Marlone,0
+1542,2022-10-21,Soar,Vero,0
+1543,2022-10-21,Sunni,Think,1
+1544,2022-10-21,Chen,Kalmius,0
+1545,2022-10-21,J Attack,Morris,0
+1546,2022-10-21,Bam,Issei,0
+1547,2022-10-21,Intact,Willy Roc,1
+1548,2022-10-21,Jc Fresh,X-Rain,0
+1549,2022-10-21,Leony,Said,1
+1550,2022-10-21,Hiro10,Ricky Rulez,1
+1551,2022-10-21,Lilma,Nazgul,1
+1552,2022-10-21,ShowMilk,Tasic,1
+1553,2022-10-21,Exaggerate,Moa,0
+1554,2022-10-21,Jasper,Lucky,1
+1555,2022-10-21,Comet,Create,1
+1556,2022-10-21,Jeffro,Tirock,1
+1557,2022-10-21,Gravity,Mighty Jimm,1
+1558,2022-10-21,Double D,Hatsolo,1
+1559,2022-10-21,Beat the Young Hustler,Lagaet,0
+1560,2022-10-21,Haruto,Tsukki,0
+1561,2022-10-21,Heady,Madtrack,0
+1562,2022-10-21,Leon,Shamil,1
+1563,2022-10-21,Lil Zoo,Valencio,1
+1564,2022-10-21,C Plus,Cis,1
+1565,2022-10-21,Deadly Dani,Illz,0
+1566,2022-10-21,Ninonino,Twister,0
+1567,2022-10-21,Frankie,Montuu,1
+1568,2022-10-21,Dol,Marox,1
+1569,2022-10-21,Khenobu,Kill,0
+1570,2022-10-21,Dunk,Woosong,0
+1571,2022-10-21,Sheku,Yoga,1
+1572,2022-10-21,Shade,WT,1
+1573,2022-10-21,Aape,Mowgly,0
+1574,2022-10-21,Lunatic,Lussy Sky,0
+1575,2022-10-21,Dany Dann,JohnnyFox,1
+1576,2022-10-21,Lego Sam,Quake,0
+1577,2022-10-21,Kerry,Poter,0
+1578,2022-10-21,Arczek,Shigekix,0
+1579,2022-10-21,Phil Wizard,Sota,1
+1580,2022-10-21,Amir,Lb,1
+1581,2022-10-21,Issin,Mass,1
+1582,2022-10-21,Qal The Wanderer Ronin,Ra1on,0
+1615,2022-07-10,Jeffro,Victor,0
+1616,2022-07-10,Shigekix,Xak,1
+1617,2022-07-10,Shigekix,Victor,0
+1618,2022-07-10,Jeffro,Xak,1
+1619,2022-07-10,Morris,Victor,0
+1620,2022-07-10,Phil Wizard,Shigekix,0
+1621,2022-07-10,Xak,Zooty Zoot,1
+1622,2022-07-10,Dany Dann,Jeffro,0
+1623,2022-07-10,Shigekix,Toa,1
+1624,2022-07-10,JohnnyFox,Zooty Zoot,0
+1625,2022-07-10,Toa,Zooty Zoot,0
+1626,2022-07-10,JohnnyFox,Shigekix,0
+1627,2022-07-10,Shigekix,Zooty Zoot,1
+1628,2022-07-10,JohnnyFox,Toa,1
+1629,2022-07-10,Matita,Morris,1
+1630,2022-07-10,Dany Dann,Lorenzo,1
+1631,2022-07-10,Lorenzo,Matita,1
+1632,2022-07-10,Dany Dann,Morris,1
+1633,2022-07-10,Lorenzo,Morris,0
+1634,2022-07-10,Dany Dann,Matita,1
+1635,2022-07-10,Luan San,Victor,0
+1636,2022-07-10,Daniel,Jeffro,0
+1637,2022-07-10,Daniel,Victor,0
+1638,2022-07-10,Jeffro,Luan San,1
+1639,2022-07-10,Daniel,Luan San,0
+1640,2022-07-10,Jeffro,Victor,0
+1641,2022-07-10,Amir,Phil Wizard,1
+1642,2022-07-10,Hatsolo,Xak,0
+1643,2022-07-10,Hatsolo,Phil Wizard,0
+1644,2022-07-10,Amir,Xak,0
+1645,2022-07-10,Amir,Hatsolo,1
+1646,2022-07-10,Phil Wizard,Xak,1
+1748,2022-05-26,Gravity,Jeffro,0
+1749,2022-05-26,Dany Dann,Lussy Sky,0
+1750,2022-05-26,Dany Dann,Jeffro,0
+1751,2022-05-26,Gravity,Lussy Sky,1
+1752,2022-05-26,Jeffro,Xak,1
+1753,2022-05-26,Dany Dann,Lil Zoo,1
+1754,2022-05-26,Lussy Sky,Mowgly,1
+1755,2022-05-26,Gravity,Nasty,1
+1756,2022-05-26,Create,Dany Dann,0
+1757,2022-05-26,Kuzya,Lussy Sky,1
+1758,2022-05-26,Dany Dann,Kuzya,1
+1759,2022-05-26,Create,Lussy Sky,0
+1760,2022-05-26,Create,Kuzya,0
+1761,2022-05-26,Dany Dann,Lussy Sky,1
+1762,2022-05-26,Onton,Toa,1
+1763,2022-05-26,Gravity,Xak,1
+1764,2022-05-26,Onton,Xak,0
+1765,2022-05-26,Gravity,Toa,1
+1766,2022-05-26,Toa,Xak,0
+1767,2022-05-26,Gravity,Onton,1
+1768,2022-05-26,Tsukki,Willy,1
+1769,2022-05-26,Jeffro,Nasty,1
+1770,2022-05-26,Nasty,Tsukki,1
+1771,2022-05-26,Jeffro,Willy,1
+1773,2022-05-26,Jeffro,Tsukki,1
+1774,2022-05-26,Khalil,Lil Zoo,0
+1775,2022-05-26,Damani,Mowgly,0
+1776,2022-05-26,Damani,Lil Zoo,0
+1777,2022-05-26,Khalil,Mowgly,0
+1778,2022-05-26,Damani,Khalil,0
+1779,2022-05-26,Lil Zoo,Mowgly,0
+1780,2022-05-26,Kuzya,Stimul,1
+1781,2022-05-26,Alvin,Lil Zoo,0
+1782,2022-05-26,Alvin,Kuzya,0
+1783,2022-05-26,Lil Zoo,Stimul,1
+1784,2022-05-26,Alvin,Stimul,1
+1785,2022-05-26,Kuzya,Lil Zoo,0
+1786,2022-05-26,Snap,Xak,0
+1787,2022-05-26,Amin Drillz,Tsukki,1
+1788,2022-05-26,Amin Drillz,Xak,0
+1789,2022-05-26,Snap,Tsukki,0
+1790,2022-05-26,Amin Drillz,Snap,0
+1791,2022-05-26,Tsukki,Xak,1
+1792,2022-05-26,Onton,Poter,1
+1794,2022-05-26,Lil G,Poter,1
+1795,2022-05-26,Nasty,Onton,0
+1796,2022-05-26,Lil G,Onton,0
+1797,2022-05-26,Nasty,Poter,1
+1798,2022-05-26,Damani,Frankie,1
+1799,2022-05-26,Dany Dann,Double D,1
+1800,2022-05-26,Damani,Double D,1
+1801,2022-05-26,Dany Dann,Frankie,1
+1802,2022-05-26,Double D,Frankie,1
+1803,2022-05-26,Damani,Dany Dann,0
+1804,2022-05-26,Khalil,Quake,1
+1805,2022-05-26,Lussy Sky,Neosan,1
+1806,2022-05-26,Khalil,Neosan,1
+1807,2022-05-26,Lussy Sky,Quake,0
+1808,2022-05-26,Neosan,Quake,0
+1809,2022-05-26,Khalil,Lussy Sky,0
+1810,2022-05-26,Em,Willy,0
+1811,2022-05-26,Flo,Gravity,0
+1812,2022-05-26,Flo,Willy,0
+1813,2022-05-26,Em,Gravity,0
+1814,2022-05-26,Em,Flo,0
+1815,2022-05-26,Gravity,Willy,1
+1817,2022-05-26,Jeffro,Ndawula,1
+1818,2022-05-26,Lucky,Ndawula,1
+1820,2022-05-26,Ndawula,Toa,0
+1821,2022-05-26,Jeffro,Lucky,1
+1822,2022-05-26,Create,Fat,1
+1823,2022-05-26,Mowgly,What21,0
+1824,2022-05-26,Create,What21,1
+1825,2022-05-26,Fat,Mowgly,0
+1826,2022-05-26,Fat,What21,1
+1827,2022-05-26,Create,Mowgly,0
+1828,2022-05-26,Chau-Lin,Em,0
+1829,2022-05-26,Double D,Stimul,0
+1830,2022-05-26,Lil G,Snap,0
+1831,2022-05-26,Create,Flaya,1
+1832,2022-05-26,Neosan,Onton,0
+1833,2022-05-26,Arcturus,Toa,0
+1834,2022-05-26,Lele,Tsukki,0
+1835,2022-05-26,Midas,Nasty,0
+1836,2022-05-26,Fat,Flo,1
+1837,2022-05-26,Lucky,Xa,1
+1838,2022-05-26,Ping Pong,Xak,0
+1839,2022-05-26,Hiro10,Khalil,0
+1840,2022-05-26,Dany Dann,Freesh Mez,1
+1841,2022-05-26,Damani,Ghost Hawk,1
+1842,2022-05-26,Ibot,Lussy Sky,0
+1843,2022-05-26,Gravity,JohnnyFox,1
+1844,2022-05-26,Kuzya,Shaymin,1
+1845,2022-05-26,Ndawula,Willy,0
+1846,2022-05-26,Lil Zoo,XL,1
+1847,2022-05-26,Amin Drillz,Frankie,0
+1848,2022-05-26,Alvin,Quake,0
+1849,2022-05-26,Deadly Dani,Jeffro,0
+1850,2022-05-26,Poter,What21,1
+1851,2022-05-26,Mowgly,Sart,1
+1852,2022-05-26,Denys,XL,0
+1853,2022-05-26,Raph,Sart,0
+1854,2022-05-26,Haruto,Shaymin,0
+1855,2022-05-26,Ange,Toa,0
+1856,2022-05-26,Didier,Em,0
+1857,2022-05-26,Banc,Xa,0
+1858,2022-05-26,Ping Pong,Spindian,1
+1859,2022-05-26,Khalil,Venom,1
+1860,2022-05-26,Dany Dann,Pape,1
+1861,2022-05-26,Damani,Sigma,1
+1862,2022-05-26,M17,Willy,0
+1863,2022-05-26,Create,Koda,1
+1864,2022-05-26,Amin Drillz,Said,1
+1865,2022-05-26,Alvin,Nerup,1
+1866,2022-05-26,Mogli,Tsukki,0
+1867,2022-05-26,Chau-Lin,Hiro10,0
+1868,2022-05-26,Bastos,Double D,0
+1869,2022-05-26,Dinho,Lussy Sky,0
+1870,2022-05-26,Freesh Mez,Stimul,1
+1871,2022-05-26,Jeffro,Play Rock,1
+1872,2022-05-26,Drud,Nasty,0
+1873,2022-05-26,Ghost Hawk,Snap,1
+1874,2022-05-26,Gravity,Saman,1
+1875,2022-05-26,Flaya,Ibot,0
+1876,2022-05-26,Kuzya,Tribe,1
+1877,2022-05-26,Hadzik,What21,0
+1878,2022-05-26,Arcturus,Midas,0
+1879,2022-05-26,Motsi,Ndawula,0
+1880,2022-05-26,Grazy,Neosan,0
+1881,2022-05-26,DGhost,Frankie,0
+1882,2022-05-26,Lil Dani,Lil Zoo,0
+1883,2022-05-26,Flo,Lele,1
+1884,2022-05-26,Clav,Quake,0
+1885,2022-05-26,Fat,Lilma,1
+1886,2022-05-26,Minh,Poter,0
+1887,2022-05-26,Bmouth,Lucky,0
+1888,2022-05-26,Mowgly,Pencil Mc,1
+1889,2022-05-26,Cis,Lil G,0
+1890,2022-05-26,JohnnyFox,Onton,1
+1891,2022-05-26,Deadly Dani,Mattix,1
+1892,2022-05-26,Juver,Xak,0
+1949,2021-12-04,Phil Wizard,Victor,0
+1950,2021-12-04,Amir,Luan San,1
+1951,2021-12-04,Amir,Phil Wizard,0
+1952,2021-12-04,Luan San,Victor,0
+1953,2021-12-04,Mini Joe,Phil Wizard,0
+1954,2021-12-04,Amir,Dany Dann,1
+1955,2021-12-04,Gun,Luan San,0
+1956,2021-12-04,Victor,Xak,1
+1957,2021-12-04,Deeogo,Xiangyu,0
+1958,2021-12-04,Gun,Lorenzo,1
+1959,2021-12-04,Gun,Xiangyu,1
+1960,2021-12-04,Deeogo,Lorenzo,0
+1961,2021-12-04,Deeogo,Gun,0
+1962,2021-12-04,Lorenzo,Xiangyu,1
+1963,2021-12-04,Matita,Xak,0
+1964,2021-12-04,Marlone,Mowgly,1
+1965,2021-12-04,Marlone,Xak,0
+1966,2021-12-04,Matita,Mowgly,1
+1967,2021-12-04,Marlone,Matita,0
+1968,2021-12-04,Mowgly,Xak,0
+1969,2021-12-04,Lilma,Toa,0
+1970,2021-12-04,Dany Dann,Mighty Jimm,1
+1971,2021-12-04,Lilma,Mighty Jimm,1
+1972,2021-12-04,Dany Dann,Toa,1
+1973,2021-12-04,Mighty Jimm,Toa,0
+1974,2021-12-04,Dany Dann,Lilma,1
+1975,2021-12-04,Lil G,Victor,0
+1976,2021-12-04,Alkolil,JohnnyFox,1
+1977,2021-12-04,JohnnyFox,Victor,0
+1978,2021-12-04,Alkolil,Lil G,1
+1979,2021-12-04,JohnnyFox,Lil G,1
+1980,2021-12-04,Alkolil,Victor,0
+1981,2021-12-04,Luan San,Shane,1
+1982,2021-12-04,Daniel,Flying Buddha,1
+1983,2021-12-04,Flying Buddha,Luan San,0
+1985,2021-12-04,Flying Buddha,Shane,1
+1986,2021-12-04,Daniel,Luan San,0
+1987,2021-12-04,Phil Wizard,X-Rain,1
+1988,2021-12-04,Rato,Shigekix,0
+1989,2021-12-04,Phil Wizard,Rato,1
+1990,2021-12-04,Shigekix,X-Rain,1
+1991,2021-12-04,Rato,X-Rain,0
+1992,2021-12-04,Phil Wizard,Shigekix,1
+1993,2021-12-04,Morris,Twister,1
+1994,2021-12-04,Amir,Said,1
+1996,2021-12-04,Amir,Morris,1
+1997,2021-12-04,Morris,Said,1
+1998,2021-12-04,Amir,Twister,1
+1999,2021-12-04,Mini Joe,Quake,1
+2000,2021-12-04,Jester,Zooty Zoot,0
+2001,2021-12-04,Jester,Mini Joe,0
+2002,2021-12-04,Quake,Zooty Zoot,0
+2003,2021-12-04,Jester,Quake,0
+2004,2021-12-04,Mini Joe,Zooty Zoot,1
+2021,2021-06-26,Jamal,Kosto,0
+2022,2021-06-26,Hatsolo,Xak,1
+2023,2021-06-26,Hatsolo,Jamal,0
+2024,2021-06-26,Kosto,Xak,1
+2025,2021-06-26,Jamal,Tunde,1
+2026,2021-06-26,Deeogo,Hatsolo,0
+2027,2021-06-26,Kosto,Lorenzo,1
+2028,2021-06-26,Twister,Xak,0
+2029,2021-06-26,Bruce Almighty,Jamal,0
+2030,2021-06-26,Tunde,Volodya,1
+2031,2021-06-26,Hatsolo,Said,1
+2032,2021-06-26,Deeogo,Nasty,1
+2033,2021-06-26,Kosto,Lagaet,1
+2034,2021-06-26,Daniel,Lorenzo,0
+2035,2021-06-26,Tirock,Xak,0
+2036,2021-06-26,TawfiQ,Twister,0
+2037,2021-06-26,Jamal,Senju,1
+2038,2021-06-26,Beat the Young Hustler,Bruce Almighty,0
+2039,2021-06-26,El Prcinho,Volodya,0
+2040,2021-06-26,Lucky,Tunde,0
+2041,2021-06-26,Hatsolo,The R,1
+2042,2021-06-26,Said,Wild Jerry,1
+2043,2021-06-26,Deeogo,Snap,1
+2044,2021-06-26,Mons,Nasty,0
+2045,2021-06-26,Kosto,Skelet,1
+2046,2021-06-26,Lagaet,Slick Nick,1
+2047,2021-06-26,Daniel,Jester,1
+2048,2021-06-26,Exaggerate,Lorenzo,0
+2049,2021-06-26,Blanco,Xak,0
+2050,2021-06-26,Emilio,Tirock,0
+2051,2021-06-26,Double D,Twister,0
+2052,2021-06-26,Lele,TawfiQ,0
+2087,2019-09-14,Menno,Victor,0
+2088,2019-09-14,Bumblebee,Shigekix,1
+2089,2019-09-14,Bumblebee,Menno,0
+2090,2019-09-14,Shigekix,Victor,0
+2091,2019-09-14,Bumblebee,Icey Ives,1
+2092,2019-09-14,Menno,Phil Wizard,1
+2093,2019-09-14,Lussy Sky,Victor,0
+2094,2019-09-14,Shigekix,Vero,1
+2095,2019-09-14,Dr. Hill,Icey Ives,0
+2096,2019-09-14,Bruce Almighty,Lussy Sky,0
+2097,2019-09-14,Bruce Almighty,Icey Ives,0
+2098,2019-09-14,Dr. Hill,Lussy Sky,0
+2100,2019-09-14,Icey Ives,Lussy Sky,1
+2101,2019-09-14,Lil G,Vero,0
+2102,2019-09-14,Phil Wizard,Vero,1
+2103,2019-09-14,Lil G,Phil Wizard,0
+2104,2019-09-14,Bumblebee,Lagaet,1
+2105,2019-09-14,Victor,Xak,1
+2106,2019-09-14,Bumblebee,Xak,1
+2107,2019-09-14,Lagaet,Victor,0
+2108,2019-09-14,Lagaet,Xak,1
+2109,2019-09-14,Bumblebee,Victor,0
+2110,2019-09-14,Quake,Shigekix,0
+2111,2019-09-14,Menno,Roll,1
+2112,2019-09-14,Quake,Roll,1
+2114,2019-09-14,Roll,Shigekix,0
+2115,2019-09-14,Menno,Quake,1
+2125,2019-04-24,Killa Koyla,Vero,0
+2126,2019-04-24,Huey Flava,Sherman,0
+2127,2019-04-24,Huey Flava,Vero,0
+2128,2019-04-24,Killa Koyla,Sherman,1
+2129,2019-04-24,Huey Flava,Tricky Tricks,1
+2130,2019-04-24,Pay,Vero,0
+2131,2019-04-24,Pramsick,Sherman,0
+2132,2019-04-24,Flying Machine,Killa Koyla,0
+2133,2019-04-24,Lee (Vietnam),Tricky Tricks,0
+2134,2019-04-24,Huey Flava,Ka-G,1
+2135,2019-04-24,Hokt,Vero,0
+2136,2019-04-24,Alwin,Pay,0
+2137,2019-04-24,Duk,Sherman,0
+2138,2019-04-24,Iron Chair,Pramsick,0
+2139,2019-04-24,Dudut,Killa Koyla,0
+2140,2019-04-24,B-Boy Think,Flying Machine,0
+2141,2019-04-24,Iron Chair,Kohei,1
+2170,2019-06-23,Issei,Menno,0
+2171,2019-06-23,Lil G,Lussy Sky,0
+2172,2019-06-23,Issei,Lil G,1
+2173,2019-06-23,Lussy Sky,Menno,0
+2174,2019-06-23,Issei,Phil Wizard,1
+2175,2019-06-23,Lagaet,Lil G,0
+2176,2019-06-23,Bumblebee,Lussy Sky,0
+2177,2019-06-23,Menno,Shigekix,1
+2178,2019-06-23,Bruce Almighty,Poter,1
+2179,2019-06-23,Bullet From Space,Menno,0
+2180,2019-06-23,Bruce Almighty,Bullet From Space,1
+2181,2019-06-23,Menno,Poter,1
+2182,2019-06-23,Bullet From Space,Poter,1
+2183,2019-06-23,Bruce Almighty,Menno,0
+2184,2019-06-23,Daniel,Xak,0
+2185,2019-06-23,Phil Wizard,Simy,1
+2186,2019-06-23,Simy,Xak,0
+2187,2019-06-23,Daniel,Phil Wizard,0
+2188,2019-06-23,Daniel,Simy,1
+2189,2019-06-23,Phil Wizard,Xak,1
+2190,2019-06-23,El Nino,Hatsolo,1
+2191,2019-06-23,Lagaet,Oy,1
+2192,2019-06-23,El Nino,Oy,1
+2193,2019-06-23,Hatsolo,Lagaet,0
+2194,2019-06-23,Hatsolo,Oy,1
+2195,2019-06-23,El Nino,Lagaet,1
+2197,2019-06-23,Bumblebee,X-Rain,1
+2199,2019-06-23,Bumblebee,Tirock,1
+2200,2019-06-23,Tirock,X-Rain,1
+2201,2019-06-23,Bumblebee,Luan San,1
+2202,2019-06-23,Cri6,Vero,0
+2203,2019-06-23,Lazy,Lussy Sky,0
+2204,2019-06-23,Lazy,Vero,0
+2205,2019-06-23,Cri6,Lussy Sky,0
+2206,2019-06-23,Cri6,Lazy,1
+2207,2019-06-23,Lussy Sky,Vero,1
+2208,2019-06-23,Klash,Lego Sam,1
+2209,2019-06-23,Hotan,Lil G,0
+2210,2019-06-23,Hotan,Lego Sam,0
+2211,2019-06-23,Klash,Lil G,0
+2212,2019-06-23,Hotan,Klash,0
+2213,2019-06-23,Lego Sam,Lil G,0
+2214,2019-06-23,Jamal,Pocket,1
+2215,2019-06-23,HR,Issei,0
+2216,2019-06-23,HR,Pocket,0
+2217,2019-06-23,Issei,Jamal,1
+2220,2019-06-23,Dr. Hill,Marius,1
+2221,2019-06-23,Astro,Shigekix,0
+2222,2019-06-23,Astro,Marius,0
+2223,2019-06-23,Dr. Hill,Shigekix,1
+2224,2019-06-23,Astro,Dr. Hill,0
+2225,2019-06-23,Marius,Shigekix,0
+2233,2019-04-20,Nord Diamond,Shigekix,0
+2234,2019-04-20,S-Wat,Shigekix,0
+2235,2019-04-20,Babylon,Nord Diamond,0
+2236,2019-04-20,Kohei,Shigekix,0
+2237,2019-04-20,Heady,S-Wat,0
+2238,2019-04-20,Babylon,Lego Sam,1
+2239,2019-04-20,Herowin,Nord Diamond,0
+2240,2019-04-20,Baccho,Shigekix,0
+2241,2019-04-20,Kohei,Willy Roc,1
+2242,2019-04-20,Heady,Jo,1
+2243,2019-04-20,Ayumu,S-Wat,0
+2244,2019-04-20,Lego Sam,m0nm0i,1
+2245,2019-04-20,Babylon,Hokt,1
+2246,2019-04-20,Issin,Nord Diamond,0
+2247,2019-04-20,Eric,Herowin,0
+2274,2018-10-11,Bumblebee,Martin,1
+2275,2018-10-11,Axel,Shigekix,0
+2276,2018-10-11,Axel,Martin,0
+2277,2018-10-11,Bumblebee,Shigekix,1
+2278,2018-10-11,Broly,Martin,0
+2279,2018-10-11,Axel,Bad Matty,1
+2280,2018-10-11,Bumblebee,D-Matt,1
+2281,2018-10-11,Shigekix,X-Rain,1
+2282,2018-10-11,Martin,X-Rain,1
+2283,2018-10-11,B4,Bad Matty,0
+2284,2018-10-11,Axel,KennyG,1
+2285,2018-10-11,Broly,Bumblebee,0
+2286,2018-10-11,D-Matt,Reflow,1
+2287,2018-10-11,Jordan,Shigekix,0
+2288,2018-10-11,B4,X-Rain,0
+2289,2018-10-11,Bad Matty,Martin,0
+2291,2018-10-11,Bumblebee,KennyG,1
+2292,2018-10-11,Jordan,Reflow,0
+2293,2018-10-11,D-Matt,Shigekix,0
+2294,2018-10-11,B4,Martin,0
+2295,2018-10-11,Bad Matty,X-Rain,1
+2296,2018-10-11,Broly,KennyG,1
+2297,2018-10-11,Axel,Bumblebee,0
+2298,2018-10-11,D-Matt,Jordan,1
+2299,2018-10-11,Reflow,Shigekix,0
+2332,2018-05-20,Bumblebee,Shigekix,0
+2333,2018-05-20,Bad Matty,X-Rain,1
+2334,2018-05-20,Bad Matty,Bumblebee,0
+2335,2018-05-20,Shigekix,X-Rain,1
+2336,2018-05-20,Bumblebee,KennyG,1
+2337,2018-05-20,Axel,Bad Matty,0
+2338,2018-05-20,D-Matt,Shigekix,0
+2339,2018-05-20,Reflow,X-Rain,0
+2340,2018-05-20,Reflow,Sawyer,1
+2341,2018-05-20,Broly,Minus,1
+2342,2018-05-20,Flysi,Winnie,1
+2344,2018-05-20,Flysi,Sawyer,0
+2345,2018-05-20,Broly,KennyG,0
+2346,2018-05-20,Reflow,Winnie,1
+2347,2018-05-20,Minus,Riku,0
+2348,2018-05-20,Flysi,Reflow,0
+2349,2018-05-20,KennyG,Minus,1
+2350,2018-05-20,Sawyer,Winnie,0
+2351,2018-05-20,Broly,Riku,0
+2353,2018-05-20,Lele,Martin,0
+2354,2018-05-20,D-Matt,Rerunn,1
+2355,2018-05-20,Bad Matty,Caesar,1
+2356,2018-05-20,Rerunn,Shoya,1
+2357,2018-05-20,Caesar,Martin,0
+2358,2018-05-20,Allen,D-Matt,0
+2359,2018-05-20,Bad Matty,Lele,1
+2360,2018-05-20,Allen,Rerunn,0
+2361,2018-05-20,Caesar,Lele,0
+2362,2018-05-20,D-Matt,Shoya,1
+2363,2018-05-20,Bad Matty,Martin,0
+2364,2018-05-20,Carlitoz,Yung Dave,0
+2365,2018-05-20,Jofran,Muha,0
+2366,2018-05-20,Arnil,Axel,0
+2367,2018-05-20,B4,Bumblebee,0
+2368,2018-05-20,Arnil,Yung Dave,0
+2369,2018-05-20,B4,Muha,1
+2370,2018-05-20,Axel,Carlitoz,1
+2371,2018-05-20,Bumblebee,Jofran,1
+2372,2018-05-20,Arnil,Carlitoz,1
+2373,2018-05-20,B4,Jofran,1
+2374,2018-05-20,Axel,Yung Dave,1
+2375,2018-05-20,Bumblebee,Muha,1
+2376,2018-05-20,Hotan,X-Rain,0
+2377,2018-05-20,Connor,Kenji,0
+2378,2018-05-20,Chorzel,Wigor,0
+2379,2018-05-20,Gog,Shigekix,0
+2380,2018-05-20,Chorzel,Hotan,0
+2381,2018-05-20,Gog,Kenji,0
+2383,2018-05-20,Connor,Shigekix,0
+2384,2018-05-20,Chorzel,X-Rain,0
+2385,2018-05-20,Connor,Gog,1
+2386,2018-05-20,Hotan,Wigor,0
+2387,2018-05-20,Kenji,Shigekix,0
+2423,2017-12-02,KennyG,Shigekix,0
+2424,2017-12-02,Riku,Shoya,0
+2425,2017-12-02,Riku,Shigekix,0
+2426,2017-12-02,KennyG,Shoya,1
+2427,2017-12-02,Jericho,Marko,0
+2428,2017-12-02,Caesar,Eco,1
+2429,2017-12-02,An-M,Riku,0
+2430,2017-12-02,Gorky,Tricky Tricks,0
+2431,2017-12-02,An-M,Jericho,0
+2432,2017-12-02,Caesar,Gorky,1
+2433,2017-12-02,Marko,Riku,0
+2434,2017-12-02,Eco,Tricky Tricks,0
+2435,2017-12-02,An-M,Marko,0
+2436,2017-12-02,Eco,Gorky,1
+2437,2017-12-02,Jericho,Riku,0
+2438,2017-12-02,Caesar,Tricky Tricks,1
+2439,2017-12-02,Dail,Gun Two,1
+2440,2017-12-02,A-Xue,X-Rain,0
+2441,2017-12-02,Dragon,Shoya,0
+2442,2017-12-02,Burapha,Hotan,0
+2443,2017-12-02,Dail,Dragon,0
+2444,2017-12-02,Burapha,X-Rain,0
+2445,2017-12-02,Gun Two,Shoya,0
+2446,2017-12-02,A-Xue,Hotan,0
+2447,2017-12-02,Dragon,Gun Two,1
+2448,2017-12-02,A-Xue,Burapha,1
+2449,2017-12-02,Dail,Shoya,0
+2450,2017-12-02,Hotan,X-Rain,1
+2451,2017-12-02,B4,KennyG,0
+2452,2017-12-02,Tianci,Winnie,0
+2453,2017-12-02,D-Soul,Mikado,0
+2454,2017-12-02,Dang,Taichi,0
+2455,2017-12-02,D-Soul,KennyG,0
+2456,2017-12-02,Dang,Winnie,0
+2458,2017-12-02,Taichi,Tianci,1
+2459,2017-12-02,B4,D-Soul,1
+2460,2017-12-02,Dang,Tianci,0
+2461,2017-12-02,KennyG,Mikado,1
+2462,2017-12-02,Taichi,Winnie,1
+2463,2017-12-02,Gog,Soulmad,1
+2464,2017-12-02,Allen,Gautam,1
+2465,2017-12-02,Soo,Specter,0
+2466,2017-12-02,Lotus,Shigekix,0
+2467,2017-12-02,Gog,Soo,1
+2468,2017-12-02,Allen,Lotus,1
+2469,2017-12-02,Soulmad,Specter,0
+2470,2017-12-02,Gautam,Shigekix,0
+2471,2017-12-02,Soo,Soulmad,0
+2472,2017-12-02,Gautam,Lotus,1
+2473,2017-12-02,Gog,Specter,0
+2474,2017-12-02,Allen,Shigekix,0
+2503,2017-05-11,Bumblebee,Martin,1
+2504,2017-05-11,Lele,Yung Dave,0
+2505,2017-05-11,Lele,Martin,0
+2506,2017-05-11,Bumblebee,Yung Dave,1
+2507,2017-05-11,Arnil,Vader,1
+2508,2017-05-11,Lobo,Rastishka,1
+2509,2017-05-11,Sawyer,Yung Dave,0
+2510,2017-05-11,Chorzel,Flysi,0
+2511,2017-05-11,Arnil,Sawyer,1
+2512,2017-05-11,Chorzel,Lobo,0
+2513,2017-05-11,Vader,Yung Dave,0
+2514,2017-05-11,Flysi,Rastishka,1
+2515,2017-05-11,Sawyer,Vader,1
+2517,2017-05-11,Arnil,Yung Dave,0
+2519,2017-05-11,Jordan,Lil Denios,0
+2520,2017-05-11,Bad Matty,Classik Talent,1
+2521,2017-05-11,Lele,Paulinho,1
+2522,2017-05-11,Lee,Oliver,1
+2523,2017-05-11,Lil Denios,Paulinho,1
+2524,2017-05-11,Bad Matty,Oliver,1
+2525,2017-05-11,Jordan,Lele,0
+2526,2017-05-11,Classik Talent,Lee,0
+2527,2017-05-11,Jordan,Paulinho,1
+2528,2017-05-11,Classik Talent,Oliver,0
+2529,2017-05-11,Lele,Lil Denios,1
+2530,2017-05-11,Bad Matty,Lee,0
+2531,2017-05-11,Justen,Turbo,1
+2532,2017-05-11,Rocket,Super Mario,0
+2533,2017-05-11,Bullet,Muha,0
+2534,2017-05-11,Martin,Wigor,1
+2535,2017-05-11,Bullet,Justen,0
+2536,2017-05-11,Super Mario,Wigor,0
+2537,2017-05-11,Muha,Turbo,1
+2538,2017-05-11,Martin,Rocket,1
+2539,2017-05-11,Bullet,Turbo,1
+2540,2017-05-11,Rocket,Wigor,1
+2541,2017-05-11,Justen,Muha,1
+2542,2017-05-11,Martin,Super Mario,1
+2543,2017-05-11,Davey,Kenji,0
+2544,2017-05-11,Koi,Picsou,0
+2545,2017-05-11,Axel,Reflow,0
+2546,2017-05-11,Bumblebee,Ibot,1
+2547,2017-05-11,Axel,Kenji,0
+2548,2017-05-11,Ibot,Koi,0
+2549,2017-05-11,Davey,Reflow,0
+2550,2017-05-11,Bumblebee,Picsou,1
+2552,2017-05-11,Ibot,Picsou,0
+2553,2017-05-11,Kenji,Reflow,1
+2554,2017-05-11,Bumblebee,Koi,1
+2555,2017-10-14,Bboy Eric,Toby,0
+2556,2017-10-14,Bboy Eric,Bboy Masanja,1
+2557,2017-10-14,Forest,Toby,0
+2564,2017-12-17,Connor,D-Matt,0
+2565,2017-12-17,Lil-T,Minus,0
+2566,2017-12-17,Connor,Lil-T,1
+2567,2017-12-17,D-Matt,Minus,1
+2568,2017-12-17,Free,Minus,0
+2569,2017-12-17,Jofran,Will,1
+2570,2017-12-17,Free,Will,0
+2571,2017-12-17,Jofran,Minus,0
+2572,2017-12-17,Minus,Will,1
+2573,2017-12-17,Free,Jofran,0
+2574,2017-12-17,Anime,Matifly,0
+2575,2017-12-17,Lil-T,Marvin,1
+2576,2017-12-17,Anime,Marvin,1
+2577,2017-12-17,Lil-T,Matifly,1
+2578,2017-12-17,Marvin,Matifly,0
+2579,2017-12-17,Anime,Lil-T,0
+2580,2017-12-17,Carlitoz,Marsue,1
+2581,2017-12-17,Connor,StarFenix,1
+2582,2017-12-17,Carlitoz,StarFenix,1
+2583,2017-12-17,Connor,Marsue,1
+2584,2017-12-17,Marsue,StarFenix,1
+2585,2017-12-17,Carlitoz,Connor,0
+2586,2017-12-17,D-Matt,Piccolo,1
+2587,2017-12-17,Rerunn,Stiv,1
+2588,2017-12-17,D-Matt,Stiv,1
+2589,2017-12-17,Piccolo,Rerunn,0
+2590,2017-12-17,Piccolo,Stiv,1
+2591,2017-12-17,D-Matt,Rerunn,1
+2601,2017-06-10,Connor,D-Matt,0
+2602,2017-06-10,Hubert,Lil-T,1
+2603,2017-06-10,Connor,Lil-T,1
+2604,2017-06-10,D-Matt,Hubert,1
+2605,2017-06-10,Hubert,Will,1
+2606,2017-06-10,Jofran,Will,1
+2607,2017-06-10,Hubert,Jofran,1
+2608,2017-06-10,Free,Hubert,0
+2609,2017-06-10,Free,Will,0
+2610,2017-06-10,Free,Jofran,0
+2611,2017-06-10,Marvin,Matifly,0
+2612,2017-06-10,Anime,Matifly,0
+2613,2017-06-10,Anime,Marvin,1
+2614,2017-06-10,Lil-T,Marvin,1
+2615,2017-06-10,Lil-T,Matifly,1
+2616,2017-06-10,Anime,Lil-T,0
+2617,2017-06-10,Marsue,StarFenix,1
+2618,2017-06-10,Connor,StarFenix,1
+2619,2017-06-10,Connor,Marsue,1
+2620,2017-06-10,Carlitoz,Marsue,1
+2621,2017-06-10,Carlitoz,StarFenix,1
+2622,2017-06-10,Carlitoz,Connor,0
+2623,2017-06-10,Piccolo,Stiv,1
+2624,2017-06-10,Rerunn,Stiv,1
+2625,2017-06-10,Piccolo,Rerunn,0
+2626,2017-06-10,D-Matt,Piccolo,1
+2627,2017-06-10,D-Matt,Stiv,1
+2628,2017-06-10,D-Matt,Rerunn,1

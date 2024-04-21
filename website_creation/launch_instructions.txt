@@ -1,0 +1,1 @@
+streamlit run main.py will launch the local version of the app

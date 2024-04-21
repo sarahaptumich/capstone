@@ -1,0 +1,852 @@
+,Date,p1,p2,label
+24,2023-07-05,Mareva,Zouza,0
+25,2023-07-05,Carlota,Lily Rose,1
+26,2023-07-05,Lily Rose,Zouza,0
+27,2023-07-05,Carlota,Mareva,1
+28,2023-07-05,Lily Rose,Mareva,0
+29,2023-07-05,Carlota,Zouza,1
+30,2023-07-05,Anna,Ninah,0
+31,2023-07-05,Romanesque,Syssy,0
+32,2023-07-05,Ninah,Romanesque,1
+33,2023-07-05,Anna,Syssy,0
+34,2023-07-05,Anna,Romanesque,1
+35,2023-07-05,Ninah,Syssy,0
+36,2023-07-05,Clea,Célia,1
+37,2023-07-05,Emma,Kimie,0
+38,2023-07-05,Clea,Emma,1
+39,2023-07-05,Célia,Kimie,0
+40,2023-07-05,Célia,Emma,0
+41,2023-07-05,Clea,Kimie,0
+42,2023-07-05,Léonie,Warlène,0
+43,2023-07-05,Lou Adele,Sarah Bee,0
+44,2023-07-05,Lou Adele,Léonie,0
+45,2023-07-05,Sarah Bee,Warlène,1
+46,2023-07-05,Lou Adele,Warlène,0
+47,2023-07-05,Léonie,Sarah Bee,0
+48,2023-04-21,AirNastya,Sinaya,0
+49,2023-04-21,Sinaya,SoFly,1
+50,2023-04-21,AirNastya,Alinza,1
+51,2023-04-21,Sinaya,casc8,1
+52,2023-04-21,Ella,SoFly,0
+53,2023-04-21,AirNastya,Blanca,1
+54,2023-04-21,Alinza,Tatiana,1
+85,2023-03-05,Jazzy,Pauline,0
+86,2023-03-05,Cha-Ja,Pauline,0
+87,2023-03-05,Jazzy,Zoe,1
+88,2023-03-05,Evita,Pauline,0
+89,2023-03-05,Cha-Ja,Spooky,1
+90,2023-03-05,Vicky,Zoe,0
+91,2023-03-05,Jazzy,Rocks,1
+107,2023-02-19,Mery Berry,Paulina,0
+108,2023-02-19,Anka,Paulina,0
+109,2023-02-19,Houston,Mery Berry,0
+110,2023-02-19,Maylo,Paulina,0
+111,2023-02-19,Anka,Domka,1
+112,2023-02-19,Darion,Houston,0
+113,2023-02-19,Mery Berry,Sandi,1
+114,2022-11-11,Alessandrina,Paulina,1
+115,2022-11-11,Paulina,Vanessa,1
+116,2022-11-11,Alessandrina,Sunny,1
+117,2022-11-11,Paulina,SashaFox,1
+118,2022-11-11,Vanessa,Yurie,1
+119,2022-11-11,Alessandrina,Sayora,1
+120,2022-11-11,Camine,Sunny,0
+121,2022-11-11,Maia,SashaFox,0
+122,2022-11-11,Paulina,Sidi,1
+123,2022-11-11,Cha-Ja,Yurie,0
+124,2022-11-11,Furia,Vanessa,0
+125,2022-11-11,R Ning,Sayora,0
+126,2022-11-11,Alessandrina,Carlota,1
+127,2022-11-11,Camine,Roxy,0
+128,2022-11-11,El Mamouny,Sunny,0
+144,2022-11-12,India,Logistx,1
+145,2022-11-12,Logistx,Sunny,1
+146,2022-11-12,671,India,0
+147,2022-11-12,Anti,Logistx,0
+148,2022-11-12,Kimie,Sunny,0
+149,2022-11-12,India,Swami,1
+150,2022-11-12,671,Vanessa,1
+151,2022-11-12,Emma,Logistx,0
+152,2022-11-12,Anti,Yuika,1
+153,2022-11-12,Kimie,Paulina,1
+154,2022-11-12,Fresh Bella,Sunny,0
+155,2022-11-12,India,Luma,1
+156,2022-11-12,Carlota,Swami,0
+157,2022-11-12,Isis,Vanessa,0
+158,2022-11-12,671,Alessandrina,1
+209,2022-07-08,Jojo,Prudance,1
+210,2022-07-08,Jojo,Loopi,1
+211,2022-07-08,Naomi,Prudance,0
+212,2022-07-08,Loopi,Sude,1
+213,2022-07-08,Jojo,Neeli,1
+214,2022-07-08,Naomi,Sona,1
+215,2022-07-08,Prudance,Tina The Turner,1
+216,2022-04-16,Esthalavista,Sina,0
+217,2022-04-16,Esthalavista,Manu,1
+218,2022-04-16,Jennie-Love,Sina,0
+219,2022-04-16,Esthalavista,Sinaya,1
+220,2022-04-16,Gameova,Manu,0
+221,2022-04-16,Sina,Soph,1
+222,2022-04-16,Jennie-Love,Thaliya,1
+253,2022-04-09,Sina,Sinaya,1
+254,2022-04-09,Je Jè,Sinaya,0
+255,2022-04-09,Nja,Sina,0
+256,2022-04-09,Manu,Sinaya,0
+257,2022-04-09,Alinza,Je Jè,0
+258,2022-04-09,Sina,Soph,1
+259,2022-04-09,Nja,Taby,1
+275,2021-10-14,Ayumi,Vavi,1
+276,2021-10-14,Stefani,Vavi,0
+277,2021-10-14,Ayumi,Fanny,1
+278,2021-10-14,Fresh Bella,Vavi,0
+279,2021-10-14,Stefani,Vanessa,1
+280,2021-10-14,Fanny,Killa Kim,1
+281,2021-10-14,Ayumi,Isis,1
+282,2021-10-14,Fresh Bella,Pauline,1
+283,2021-10-14,Jilou,Vavi,0
+284,2021-10-14,Ayane,Vanessa,0
+285,2021-10-14,Mery Berry,Stefani,0
+286,2021-10-14,Anti,Killa Kim,0
+287,2021-10-14,Dora,Fanny,0
+288,2021-10-14,Ayumi,Sayora,1
+289,2021-10-14,Emma,Isis,0
+305,2021-11-05,Logistx,Vavi,1
+306,2021-11-05,Kastet,Vavi,0
+307,2021-11-05,Logistx,Nadia,1
+308,2021-11-05,Paulina,Vavi,0
+309,2021-11-05,Kastet,Ram,1
+310,2021-11-05,Nadia,Sidi,1
+311,2021-11-05,Ayumi,Logistx,0
+312,2021-11-05,Madmax,Vavi,0
+313,2021-11-05,Luma,Paulina,0
+314,2021-11-05,Ram,Stefani,1
+315,2021-11-05,Carito,Kastet,0
+316,2021-11-05,Fanny,Sidi,0
+317,2021-11-05,Ami,Nadia,0
+318,2021-11-05,Ayumi,San Andrea,1
+319,2021-11-05,Logistx,Yell,1
+327,2020-11-28,Kastet,Madmax,1
+328,2020-11-28,Ayane,Kastet,0
+329,2020-11-28,Jilou,Madmax,0
+330,2020-11-28,Ayane,Kami,1
+331,2020-11-28,Kastet,Mess,1
+332,2020-11-28,Jilou,Sina,1
+333,2020-11-28,Madmax,Sunny,1
+356,2020-05-09,Ami,Kastet,1
+357,2020-05-09,Ami,San Andrea,1
+358,2020-05-09,Ayane,Kastet,0
+359,2020-05-09,Ami,Yell,1
+360,2020-05-09,Kate,San Andrea,0
+361,2020-05-09,Jilou,Kastet,0
+362,2020-05-09,Ayane,Carito,1
+443,2019-09-20,Frost,Loopi,0
+444,2019-09-20,Joëlle Camarell,Loopi,0
+445,2019-09-20,Frost,Viola Luba,1
+476,2019-08-17,Annasty,Ayumi,0
+477,2019-08-17,Ayumi,Yurie,1
+478,2019-08-17,Annasty,Ayu,1
+479,2019-08-17,Ayumi,Yuika,1
+480,2019-08-17,Eri,Yurie,0
+481,2019-08-17,Ayu,Ram,1
+482,2019-08-17,Annasty,Ayane,1
+498,2019-04-13,RawGina,Vanessa,0
+499,2019-04-13,Munirat,Vanessa,0
+500,2019-04-13,RawGina,Shortbread,1
+501,2019-04-13,Angel,Vanessa,0
+502,2019-04-13,Munirat,Zana,1
+503,2019-04-13,Fidget,Shortbread,0
+504,2019-04-13,Jenn,RawGina,0
+557,2019-03-16,Camine,Mariabliss,1
+558,2019-03-16,Mariabliss,Stormy,1
+559,2019-03-16,Camine,Madmax,1
+580,2018-12-15,Indi,Solid,0
+581,2018-12-15,Sabri,Solid,0
+582,2018-12-15,Gamora,Indi,0
+791,2023-06-07,Piuma,Sofy,0
+792,2023-06-07,Shargh,Termogirl,1
+793,2023-06-07,Piuma,Termogirl,1
+794,2023-06-07,Shargh,Sofy,0
+795,2023-06-07,Lady Bug,Mimi,0
+796,2023-06-07,Saretta,Tara,1
+797,2023-06-07,Lady Bug,Saretta,1
+798,2023-06-07,Mimi,Tara,1
+799,2023-06-07,Little Sofy,Soli,1
+800,2023-06-07,Dilly,Frizzy,1
+801,2023-06-07,Dilly,Little Sofy,0
+802,2023-06-07,Frizzy,Soli,0
+803,2023-06-07,Chimpa-Fresh,Spidergirl,0
+804,2023-06-07,Cami,Mati,1
+805,2023-06-07,Mati,Spidergirl,0
+806,2023-06-07,Cami,Chimpa-Fresh,0
+807,2023-06-07,Caterpillar,Jesly,0
+808,2023-06-07,Asy,Fabi,1
+809,2023-06-07,Caterpillar,Fabi,1
+810,2023-06-07,Asy,Jesly,0
+811,2023-06-07,Gin Tonic,Ludovica,1
+812,2023-07-08,Jilou,Pauline,1
+813,2023-07-08,Melina,Sona,1
+814,2023-07-08,Pauline,Sona,1
+815,2023-07-08,Jilou,Melina,1
+816,2023-07-08,Sona,Steelish,1
+817,2023-07-08,Alicia,Pauline,0
+818,2023-07-08,Melina,Meow,1
+819,2023-07-08,Jilou,Loopi,1
+820,2023-07-08,Mer-C,Tina the Turner,0
+821,2023-07-08,Loopi,Sona,0
+822,2023-07-08,Loopi,Tina the Turner,1
+823,2023-07-08,Mer-C,Sona,0
+824,2023-07-08,Loopi,Mer-C,1
+825,2023-07-08,Sona,Tina the Turner,1
+826,2023-07-08,Alicia,Sude,1
+827,2023-07-08,Melina,Yasmin Tee,1
+829,2023-07-08,Melina,Sude,1
+830,2023-07-08,Sude,Yasmin Tee,0
+831,2023-07-08,Alicia,Melina,1
+832,2023-07-08,Joanna,Meow,0
+833,2023-07-08,Jayda,Pauline,0
+834,2023-07-08,Jayda,Joanna,0
+835,2023-07-08,Meow,Pauline,0
+836,2023-07-08,Jayda,Meow,0
+837,2023-07-08,Joanna,Pauline,0
+838,2023-07-08,FreeZen,Steelish,0
+839,2023-07-08,Jilou,Luisa,1
+840,2023-07-08,FreeZen,Luisa,1
+841,2023-07-08,Jilou,Steelish,1
+842,2023-07-08,Luisa,Steelish,0
+843,2023-07-08,FreeZen,Jilou,0
+892,2023-06-25,Urara,koharu,0
+893,2023-06-25,Suzuna,koharu,0
+894,2023-06-25,Miria,Urara,0
+895,2023-06-25,Michika,Suzuna,0
+903,2023-06-25,Kaede,Sawa,1
+904,2023-06-25,Kaede,Kyoka,1
+905,2023-06-25,NaNaKa,Sawa,0
+906,2023-06-25,Kaede,cocoa,1
+907,2023-06-25,Kyoka,Rein,1
+908,2023-06-25,NaNaKa,Tomomi,1
+909,2023-06-25,Raika,Sawa,0
+917,2023-06-24,Jazzy Jes,Leaf,1
+918,2023-06-24,Jin,Shayne,1
+919,2023-06-24,Jazzy Jes,Shayne,1
+920,2023-06-24,Jin,Leaf,0
+953,2023-06-24,B-Girl J,Chili,1
+954,2023-06-24,Celine,Nova,1
+955,2023-06-24,Chili,Nova,1
+956,2023-06-24,B-Girl J,Celine,1
+989,2023-10-14,Jilou,Melina,0
+990,2023-10-14,Pauline,Sona,0
+991,2023-10-14,Melina,Sona,1
+992,2023-10-14,Jilou,Pauline,1
+993,2023-10-14,Bereaved Neeli,Sona,0
+994,2023-10-14,Melina,Tina the Turner,1
+995,2023-10-14,Alicia,Jilou,0
+996,2023-10-14,Loopi,Pauline,0
+997,2023-10-14,Bereaved Neeli,Meow,1
+998,2023-10-14,Sona,YasminTee,1
+999,2023-10-14,Sude,Tina the Turner,0
+1000,2023-10-14,Melina,Mer-C,1
+1001,2023-10-14,Alicia,Joanna,1
+1002,2023-10-14,Jilou,Steelish,1
+1003,2023-10-14,Liya Jackson,Loopi,0
+1004,2023-10-14,FreeZen,Pauline,0
+1020,2023-06-23,Madmax,StefAni,0
+1021,2023-06-23,Camine,StefAni,0
+1022,2023-06-23,Jilou,Madmax,0
+1023,2023-06-23,Camine,Missy,1
+1024,2023-06-23,Mimì,StefAni,0
+1025,2023-06-23,Jilou,Rule,1
+1026,2023-06-23,Madmax,Solid,1
+1035,2023-06-16,Emina,Valkyrie,0
+1036,2023-06-16,Hellcat,Kreya,1
+1037,2023-06-16,Hellcat,Valkyrie,0
+1038,2023-06-16,Emina,Kreya,1
+1039,2023-04-06,Pebblz Luv,Swami,0
+1040,2023-04-06,Sarah Bee,Shortbread,1
+1041,2023-04-06,Camine,Paulina,1
+1042,2023-04-06,Emma,Yell,1
+1043,2023-04-06,Alicia Anais,Starry,0
+1044,2023-04-06,Eru,Yuika,0
+1045,2023-04-06,La Vix,Snap1,1
+1046,2023-04-06,Jilou,Konatsu,0
+1047,2023-04-06,Jia Li,Madmax,0
+1048,2023-04-06,Honokaa,Kami,1
+1049,2023-04-06,Riko,SashaFox,1
+1050,2023-04-06,Lady Banan,Yuina,0
+1051,2023-04-06,Fresh Bella,Pep-C,1
+1052,2023-04-06,Ayane,Lua,1
+1053,2023-04-06,B-Nice,Chura,0
+1054,2023-04-06,Logistx,Monse,1
+1055,2023-04-06,Ayane,Riko,0
+1056,2023-04-06,Fresh Bella,Swami,1
+1057,2023-04-06,Ayane,Fresh Bella,1
+1058,2023-04-06,Riko,Swami,1
+1059,2023-04-06,Ayane,Sarah Bee,1
+1060,2023-04-06,Emma,Fresh Bella,0
+1061,2023-04-06,Honokaa,Riko,0
+1062,2023-04-06,Konatsu,Swami,0
+1063,2023-04-06,Sarah Bee,Starry,1
+1064,2023-04-06,Ayane,Camine,1
+1065,2023-04-06,Emma,La Vix,1
+1066,2023-04-06,Chura,Fresh Bella,0
+1067,2023-04-06,Honokaa,Yuina,1
+1068,2023-04-06,Riko,Yuika,1
+1069,2023-04-06,Madmax,Swami,0
+1070,2023-04-06,Konatsu,Logistx,1
+1103,2023-02-24,671,Ami,1
+1104,2023-02-24,Anti,Sunny,1
+1105,2023-02-24,671,Anti,1
+1106,2023-02-24,Ami,Sunny,1
+1107,2023-02-24,671,Ayumi,1
+1108,2023-02-24,Anna,Anti,0
+1109,2023-02-24,India,Sunny,0
+1110,2023-02-24,Ami,Nicka,1
+1111,2023-02-24,Furia,Nicka,0
+1112,2023-02-24,671,Pauline,1
+1113,2023-02-24,Nicka,Pauline,1
+1114,2023-02-24,671,Furia,1
+1115,2023-02-24,Furia,Pauline,1
+1116,2023-02-24,671,Nicka,1
+1117,2023-02-24,Carlota,Vanessa,1
+1118,2023-02-24,Anna,India,0
+1120,2023-02-24,India,Vanessa,1
+1121,2023-02-24,Anna,Vanessa,1
+1122,2023-02-24,Carlota,India,0
+1123,2023-02-24,Alessandrina,Madmax,1
+1125,2023-02-24,Alessandrina,Sunny,1
+1127,2023-02-24,Madmax,Sunny,0
+1128,2023-02-24,Alessandrina,Anti,0
+1129,2023-02-24,Ayumi,Jilou,1
+1130,2023-02-24,Ami,Ying Zi,1
+1131,2023-02-24,Ayumi,Ying Zi,1
+1132,2023-02-24,Ami,Jilou,1
+1133,2023-02-24,Jilou,Ying Zi,0
+1134,2023-02-24,Ami,Ayumi,1
+1135,2023-02-24,Furia,Luma,1
+1136,2023-02-24,Pauline,Syssy,1
+1137,2023-02-24,Madmax,Swami,1
+1138,2023-02-24,Riko,Sunny,0
+1139,2023-02-24,Anna,Sarah Bee,1
+1140,2023-02-24,Camine,Ying Zi,0
+1141,2023-02-24,Jilou,Tiff,1
+1142,2023-02-24,Alessandrina,Yell,1
+1143,2023-02-24,671,Nadia,1
+1144,2023-02-24,Ayumi,Carla,1
+1145,2023-02-24,Fresh Bella,Vanessa,0
+1146,2023-02-24,Carlota,Emma,1
+1147,2023-02-24,Nicka,SashaFox,1
+1148,2023-02-24,India,Ziyan,1
+1149,2023-02-24,Anti,La Vix,1
+1150,2023-02-24,Ami,Roxy,1
+1231,2022-11-05,Anti,India,0
+1232,2022-11-05,Nicka,Vanessa,0
+1233,2022-11-05,India,Vanessa,1
+1234,2022-11-05,Anti,Nicka,1
+1235,2022-11-05,India,Madmax,1
+1236,2022-11-05,Alessandrina,Vanessa,0
+1237,2022-11-05,Nicka,Spidergirl,1
+1238,2022-11-05,Anti,Jilou,1
+1239,2022-11-05,AT,India,0
+1240,2022-11-05,Jilou,Nadia,1
+1241,2022-11-05,India,Nadia,1
+1242,2022-11-05,AT,Jilou,0
+1243,2022-11-05,AT,Nadia,0
+1244,2022-11-05,India,Jilou,1
+1245,2022-11-05,Becca,Pauline,0
+1247,2022-11-05,Becca,Vanessa,0
+1248,2022-11-05,Nicka,Pauline,1
+1249,2022-11-05,Pauline,Vanessa,0
+1250,2022-11-05,Becca,Nicka,0
+1251,2022-11-05,Furia,Spidergirl,0
+1252,2022-11-05,Alessandrina,Bo,1
+1253,2022-11-05,Bo,Spidergirl,0
+1254,2022-11-05,Alessandrina,Furia,1
+1255,2022-11-05,Bo,Furia,0
+1256,2022-11-05,Alessandrina,Spidergirl,1
+1257,2022-11-05,Fairytale,Madmax,0
+1258,2022-11-05,Anti,Sarah Bee,1
+1259,2022-11-05,Fairytale,Sarah Bee,0
+1261,2022-11-05,Madmax,Sarah Bee,1
+1262,2022-11-05,Anti,Fairytale,1
+1263,2022-11-05,AirNasty,Vanessa,0
+1264,2022-11-05,Becca,Sude,1
+1265,2022-11-05,Julianna,Nadia,0
+1266,2022-11-05,AT,Cha-Ja,1
+1267,2022-11-05,AGT,Jilou,0
+1268,2022-11-05,Lola,Pauline,0
+1269,2022-11-05,Alicia Anais,Fairytale,0
+1270,2022-11-05,Furia,Plamena,1
+1271,2022-11-05,Bo,Shortbread,1
+1272,2022-11-05,Kid-T,Nicka,0
+1273,2022-11-05,Alessandrina,Carla,1
+1274,2022-11-05,Madmax,Mery Berry,1
+1275,2022-11-05,Paulina,Sarah Bee,0
+1276,2022-11-05,Anti,Syssy,1
+1277,2022-11-05,Camine,Spidergirl,0
+1278,2022-11-05,Carlota,India,0
+1359,2022-10-21,671,Ami,0
+1360,2022-10-21,Ayumi,Riko,1
+1361,2022-10-21,Ami,Ayumi,1
+1362,2022-10-21,671,Riko,1
+1363,2022-10-21,Anti,Riko,0
+1364,2022-10-21,671,Ayane,1
+1365,2022-10-21,Ayumi,Sunny,1
+1366,2022-10-21,Ami,Carlota,1
+1367,2022-10-21,Riko,Sunny,1
+1368,2022-10-21,Camine,Sunny,0
+1369,2022-10-21,Camine,Riko,0
+1370,2022-10-21,Riko,Swami,1
+1371,2022-10-21,Sunny,Swami,1
+1372,2022-10-21,Camine,Swami,1
+1373,2022-10-21,Ami,Ayane,0
+1374,2022-10-21,Ayane,Kimie,1
+1375,2022-10-21,Ami,Kimie,1
+1376,2022-10-21,Ami,Nadia,1
+1377,2022-10-21,Kimie,Nadia,1
+1378,2022-10-21,Ayane,Nadia,1
+1379,2022-10-21,671,Carlota,1
+1380,2022-10-21,Carlota,Kim,1
+1381,2022-10-21,671,Kim,1
+1382,2022-10-21,671,Raw Law,1
+1383,2022-10-21,Carlota,Raw Law,0
+1384,2022-10-21,Kim,Raw Law,1
+1385,2022-10-21,Anti,Ayumi,0
+1386,2022-10-21,Ayumi,Fresh Bella,1
+1387,2022-10-21,Anti,Fresh Bella,1
+1388,2022-10-21,Anti,Sarah Bee,1
+1389,2022-10-21,Ayumi,Sarah Bee,1
+1390,2022-10-21,Fresh Bella,Sarah Bee,1
+1391,2022-10-21,Anti,Paulina,1
+1392,2022-10-21,Sarah Bee,Vanessa,1
+1393,2022-10-21,Carlota,Jilou,1
+1394,2022-10-21,Nadia,Royal,1
+1395,2022-10-21,Riko,Tiff,1
+1396,2022-10-21,Ami,Nicka,1
+1397,2022-10-21,Jia Li,Kim,0
+1398,2022-10-21,Eru,Sunny,0
+1399,2022-10-21,Kimie,SashaFox,1
+1400,2022-10-21,Ayane,India,1
+1401,2022-10-21,671,Yell,1
+1402,2022-10-21,AT,Fresh Bella,0
+1403,2022-10-21,Stitch,Swami,0
+1404,2022-10-21,Ayumi,Ram,1
+1405,2022-10-21,Fairytale,Raw Law,0
+1406,2022-10-21,Camine,Jazzy Jes,1
+1407,2022-10-21,Vanessa,Xunli,1
+1408,2022-10-21,Ami,Yuika,1
+1409,2022-10-21,Jazzy,Riko,0
+1410,2022-10-21,Ayane,Emma,1
+1411,2022-10-21,Starry,Sunny,0
+1412,2022-10-21,Camine,La Vix,1
+1413,2022-10-21,Ayu,Kimie,0
+1414,2022-10-21,Alicia Anais,Raw Law,0
+1415,2022-10-21,Rule,Swami,0
+1416,2022-10-21,671,Sayora,1
+1417,2022-10-21,Anti,Fantasy,1
+1418,2022-10-21,Ashes,Fresh Bella,0
+1419,2022-10-21,Ayumi,Mononoke,1
+1420,2022-10-21,Mini Japa,Nadia,0
+1421,2022-10-21,Jilou,Pep-C,1
+1422,2022-10-21,Jojo,Kim,0
+1423,2022-10-21,Chura,Royal,0
+1424,2022-10-21,Roxy,Tiff,0
+1425,2022-10-21,Karina,Nicka,0
+1426,2022-10-21,Eru,Nathana,1
+1427,2022-10-21,Isis,SashaFox,0
+1428,2022-10-21,India,Konatsu,1
+1429,2022-10-21,Madmax,Sarah Bee,0
+1430,2022-10-21,Fairytale,Pauline,1
+1431,2022-10-21,Carla,Jazzy Jes,0
+1432,2022-10-21,Stitch,Yuina,1
+1433,2022-10-21,Carlota,Luma,1
+1434,2022-10-21,Jia Li,Ying Zi,1
+1435,2022-10-21,Shortbread,Yell,0
+1436,2022-10-21,Alessandrina,Paulina,0
+1437,2022-10-21,AT,Furia,1
+1438,2022-10-21,Fenqi,Ram,0
+1583,2022-07-10,Ami,Sunny,1
+1584,2022-07-10,671,Ayumi,0
+1585,2022-07-10,671,Sunny,0
+1586,2022-07-10,Ami,Ayumi,1
+1587,2022-07-10,671,Tiff,1
+1588,2022-07-10,Jilou,Sunny,0
+1589,2022-07-10,Ami,Camine,1
+1590,2022-07-10,Ayumi,Carlota,1
+1591,2022-07-10,Camine,Sunny,0
+1592,2022-07-10,Madmax,Paulina,1
+1593,2022-07-10,Camine,Paulina,1
+1594,2022-07-10,Madmax,Sunny,0
+1595,2022-07-10,Paulina,Sunny,0
+1596,2022-07-10,Camine,Madmax,1
+1597,2022-07-10,Ayumi,Pauline,1
+1598,2022-07-10,671,Alessandrina,1
+1599,2022-07-10,671,Pauline,1
+1600,2022-07-10,Alessandrina,Ayumi,0
+1601,2022-07-10,671,Ayumi,0
+1602,2022-07-10,Alessandrina,Pauline,1
+1603,2022-07-10,Mery Berry,Tiff,0
+1604,2022-07-10,Babyball,Carlota,1
+1605,2022-07-10,Babyball,Mery Berry,1
+1606,2022-07-10,Carlota,Tiff,1
+1607,2022-07-10,Babyball,Tiff,0
+1608,2022-07-10,Carlota,Mery Berry,1
+1609,2022-07-10,Anti,Jilou,0
+1610,2022-07-10,Ami,La Vix,1
+1611,2022-07-10,Anti,La Vix,1
+1612,2022-07-10,Ami,Jilou,1
+1613,2022-07-10,Jilou,La Vix,1
+1614,2022-07-10,Ami,Anti,1
+1647,2022-05-26,Ami,Kimie,1
+1648,2022-05-26,Carlota,San Andrea,1
+1649,2022-05-26,Ami,San Andrea,1
+1650,2022-05-26,Carlota,Kimie,0
+1651,2022-05-26,Ami,Sarah Bee,1
+1652,2022-05-26,Pauline,San Andrea,0
+1653,2022-05-26,Kimie,Solid,1
+1654,2022-05-26,Alessandrina,Carlota,0
+1655,2022-05-26,San Andrea,Solid,1
+1656,2022-05-26,Jia Li,SashaFox,1
+1657,2022-05-26,Jia Li,San Andrea,0
+1658,2022-05-26,SashaFox,Solid,0
+1659,2022-05-26,Jia Li,Solid,0
+1660,2022-05-26,San Andrea,SashaFox,1
+1661,2022-05-26,Shortbread,Snap1,1
+1662,2022-05-26,Carlota,Sarah Bee,1
+1663,2022-05-26,Sarah Bee,Snap1,1
+1664,2022-05-26,Carlota,Shortbread,1
+1665,2022-05-26,Sarah Bee,Shortbread,1
+1666,2022-05-26,Carlota,Snap1,1
+1667,2022-05-26,Ami,Furia,1
+1668,2022-05-26,Alessandrina,Alicia Anais,1
+1669,2022-05-26,Alicia Anais,Ami,0
+1670,2022-05-26,Alessandrina,Furia,1
+1671,2022-05-26,Alicia Anais,Furia,0
+1672,2022-05-26,Alessandrina,Ami,0
+1673,2022-05-26,Mononoke,Pauline,0
+1674,2022-05-26,Kimie,Nicka,1
+1675,2022-05-26,Nicka,Pauline,1
+1676,2022-05-26,Kimie,Mononoke,1
+1677,2022-05-26,Mononoke,Nicka,0
+1678,2022-05-26,Kimie,Pauline,0
+1680,2022-05-26,Maess'one,Pauline,0
+1681,2022-05-26,Jia Li,Maess'one,1
+1682,2022-05-26,Konatsu,Pauline,0
+1683,2022-05-26,Konatsu,Maess'one,0
+1684,2022-05-26,Jia Li,Pauline,0
+1685,2022-05-26,Pesteana,Sarah Bee,0
+1686,2022-05-26,Ami,Fantasy,1
+1687,2022-05-26,Fantasy,Sarah Bee,0
+1688,2022-05-26,Ami,Pesteana,1
+1689,2022-05-26,Fantasy,Pesteana,0
+1690,2022-05-26,Ami,Sarah Bee,1
+1691,2022-05-26,Ella,Snap1,0
+1692,2022-05-26,Alicia Anais,Sude,1
+1693,2022-05-26,Alicia Anais,Snap1,0
+1694,2022-05-26,Ella,Sude,1
+1695,2022-05-26,Alicia Anais,Ella,0
+1696,2022-05-26,Snap1,Sude,1
+1698,2022-05-26,Riko,San Andrea,0
+1699,2022-05-26,Camine,Riko,0
+1700,2022-05-26,Nicka,San Andrea,1
+1701,2022-05-26,Nicka,Riko,1
+1702,2022-05-26,Camine,San Andrea,0
+1703,2022-05-26,ERU,Mononoke,0
+1704,2022-05-26,SashaFox,Tina,1
+1705,2022-05-26,Mononoke,Tina,1
+1706,2022-05-26,ERU,SashaFox,0
+1707,2022-05-26,ERU,Tina,0
+1709,2022-05-26,Carlota,Lexy,1
+1710,2022-05-26,Agt,Furia,0
+1711,2022-05-26,Carlota,Furia,1
+1712,2022-05-26,Agt,Lexy,1
+1713,2022-05-26,Furia,Lexy,1
+1714,2022-05-26,Agt,Carlota,0
+1715,2022-05-26,Alessandrina,Kim,1
+1716,2022-05-26,Mery Berry,Shortbread,0
+1717,2022-05-26,Alessandrina,Shortbread,1
+1718,2022-05-26,Kim,Mery Berry,0
+1720,2022-05-26,Alessandrina,Mery Berry,1
+1721,2022-05-26,Sinaya,Solid,0
+1722,2022-05-26,Kimie,Xunli,1
+1723,2022-05-26,Sinaya,Xunli,1
+1724,2022-05-26,Kimie,Solid,1
+1725,2022-05-26,Solid,Xunli,1
+1726,2022-05-26,Kimie,Sinaya,1
+1727,2022-05-26,Mononoke,Rocky J,1
+1728,2022-05-26,San Andrea,SoFly,1
+1729,2022-05-26,Sinaya,Tina,1
+1730,2022-05-26,Aby,Camine,0
+1731,2022-05-26,Kim,Maess'one,1
+1732,2022-05-26,Cascade,Sude,0
+1733,2022-05-26,Janis,Snap1,0
+1734,2022-05-26,Nicka,Pesteana,1
+1735,2022-05-26,Sarah Bee,The Warrior Princess,1
+1736,2022-05-26,Fantasy,Solid,0
+1737,2022-05-26,ERU,Ella,1
+1738,2022-05-26,A Ni,SashaFox,0
+1739,2022-05-26,Jia Li,Xunli,1
+1740,2022-05-26,Pauline,Shortbread,1
+1741,2022-05-26,Agt,Princess,1
+1742,2022-05-26,Konatsu,Lexy,0
+1743,2022-05-26,Blanca,Mery Berry,0
+1744,2022-05-26,Ami,Furia,1
+1745,2022-05-26,Alessandrina,Riko,1
+1746,2022-05-26,Alicia Anais,Kimie,0
+1747,2022-05-26,Carlota,Neeli,1
+1893,2021-12-04,Ami,Ayumi,0
+1894,2021-12-04,Anti,Jilou,0
+1895,2021-12-04,Ami,Anti,1
+1896,2021-12-04,Ayumi,Jilou,1
+1897,2021-12-04,Anti,Sunny,1
+1898,2021-12-04,Ami,Madmax,1
+1899,2021-12-04,Jilou,Paulina,1
+1900,2021-12-04,Ayumi,Kastet,1
+1901,2021-12-04,Anti,Vanessa,1
+1902,2021-12-04,Pauline,Yana,1
+1903,2021-12-04,Anti,Yana,1
+1904,2021-12-04,Pauline,Vanessa,1
+1905,2021-12-04,Vanessa,Yana,1
+1906,2021-12-04,Anti,Pauline,1
+1907,2021-12-04,Mikix,Sunny,0
+1908,2021-12-04,Roxy,Vavi,0
+1909,2021-12-04,Roxy,Sunny,0
+1910,2021-12-04,Mikix,Vavi,0
+1911,2021-12-04,Mikix,Roxy,0
+1912,2021-12-04,Sunny,Vavi,1
+1913,2021-12-04,Madmax,Mery Berry,1
+1914,2021-12-04,671,Miimo,1
+1915,2021-12-04,Madmax,Miimo,1
+1916,2021-12-04,671,Mery Berry,1
+1917,2021-12-04,Mery Berry,Miimo,1
+1918,2021-12-04,671,Madmax,0
+1919,2021-12-04,Furia,Teenie,1
+1920,2021-12-04,Itsa,Jilou,0
+1921,2021-12-04,Furia,Itsa,1
+1922,2021-12-04,Jilou,Teenie,1
+1923,2021-12-04,Itsa,Teenie,0
+1924,2021-12-04,Furia,Jilou,0
+1925,2021-12-04,Kim,Kotya,0
+1926,2021-12-04,Ayumi,BO,1
+1927,2021-12-04,BO,Kim,0
+1928,2021-12-04,Ayumi,Kotya,1
+1929,2021-12-04,BO,Kotya,0
+1930,2021-12-04,Ayumi,Kim,1
+1932,2021-12-04,Groovy,Paulina,0
+1934,2021-12-04,Paulina,Shortbread,1
+1935,2021-12-04,Groovy,Shortbread,0
+1936,2021-12-04,Babyball,Paulina,0
+1937,2021-12-04,Carlota,Emma,1
+1938,2021-12-04,Kastet,Mononoke,1
+1939,2021-12-04,Carlota,Mononoke,1
+1940,2021-12-04,Emma,Kastet,0
+1941,2021-12-04,Emma,Mononoke,1
+1942,2021-12-04,Carlota,Kastet,0
+1943,2021-12-04,Alessandrina,Tiff,1
+1944,2021-12-04,Ami,Nightmare,1
+1945,2021-12-04,Alessandrina,Nightmare,1
+1946,2021-12-04,Ami,Tiff,1
+1947,2021-12-04,Nightmare,Tiff,0
+1948,2021-12-04,Alessandrina,Ami,0
+2005,2021-06-26,Kastet,Vavi,1
+2006,2021-06-26,Madmax,Paulina,1
+2007,2021-06-26,Madmax,Vavi,0
+2008,2021-06-26,Kastet,Paulina,1
+2009,2021-06-26,Anti,Vavi,0
+2010,2021-06-26,Jilou,Madmax,0
+2011,2021-06-26,Kastet,Pauline,1
+2012,2021-06-26,Emilia,Paulina,0
+2013,2021-06-26,Groovy,Vavi,0
+2014,2021-06-26,Anti,Carlota,1
+2015,2021-06-26,Madmax,Rule,1
+2016,2021-06-26,Jilou,Kotya,1
+2017,2021-06-26,Kastet,Law,1
+2018,2021-06-26,Alessandrina,Pauline,0
+2019,2021-06-26,Miimo,Paulina,0
+2020,2021-06-26,Emilia,Vanessa,1
+2053,2019-09-14,Ami,Sunny,1
+2054,2019-09-14,Kate,Logistx,0
+2055,2019-09-14,Kate,Sunny,0
+2056,2019-09-14,Ami,Logistx,1
+2057,2019-09-14,Kate,Sarah Bee,1
+2058,2019-09-14,Ayane,Sunny,0
+2059,2019-09-14,Logistx,San Andrea,1
+2060,2019-09-14,Ami,Queen Mary,1
+2061,2019-09-14,Madmax,Sarah Bee,0
+2062,2019-09-14,Ayane,Roxy,1
+2063,2019-09-14,Kate,Logistx,1
+2064,2019-09-14,Fresh Bella,Jilou,0
+2065,2019-09-14,Fresh Bella,Kate,0
+2066,2019-09-14,Jilou,Logistx,0
+2067,2019-09-14,Fresh Bella,Logistx,0
+2068,2019-09-14,Jilou,Kate,0
+2070,2019-09-14,Sunny,Vavi,1
+2073,2019-09-14,Queen Mary,Vavi,1
+2074,2019-09-14,Sunny,Ying Zi,1
+2076,2019-09-14,Paulina,San Andrea,0
+2077,2019-09-14,Paulina,Sarah Bee,0
+2078,2019-09-14,Madmax,San Andrea,0
+2079,2019-09-14,Madmax,Paulina,1
+2082,2019-09-14,Ami,Csepke,1
+2083,2019-09-14,Csepke,Roxy,0
+2084,2019-09-14,Ami,Ayane,1
+2085,2019-09-14,Ayane,Csepke,1
+2086,2019-09-14,Ami,Roxy,1
+2116,2019-04-24,Ayane,Eru,1
+2117,2019-04-24,Lady Banan,Yell,0
+2118,2019-04-24,Eru,Lady Banan,1
+2119,2019-04-24,Ayane,Yell,1
+2120,2019-04-24,Eru,Tinie Rawk,1
+2121,2019-04-24,Jo,Lady Banan,0
+2122,2019-04-24,Ayane,Kiwi,1
+2123,2019-04-24,DC,Yell,0
+2124,2019-04-24,Kiwi,Yani,1
+2142,2019-06-23,Ami,Sunny,1
+2143,2019-06-23,Jilou,Ying Zi,1
+2144,2019-06-23,Sunny,Ying Zi,1
+2145,2019-06-23,Ami,Jilou,1
+2146,2019-06-23,Jilou,Lluvia,1
+2147,2019-06-23,Queen Mary,Roxy,1
+2148,2019-06-23,Jilou,Roxy,0
+2149,2019-06-23,Lluvia,Queen Mary,0
+2150,2019-06-23,Lluvia,Roxy,0
+2151,2019-06-23,Jilou,Queen Mary,1
+2152,2019-06-23,Ayane,Fresh Bella,1
+2154,2019-06-23,Ayane,Ying Zi,0
+2156,2019-06-23,Fresh Bella,Ying Zi,0
+2157,2019-06-23,Ayane,Logistx,1
+2158,2019-06-23,Madmax,Sunny,0
+2159,2019-06-23,Fenqi,Vavi,1
+2160,2019-06-23,Fenqi,Madmax,1
+2161,2019-06-23,Sunny,Vavi,1
+2162,2019-06-23,Fenqi,Sunny,0
+2163,2019-06-23,Madmax,Vavi,1
+2164,2019-06-23,Paulina,Ramona,0
+2165,2019-06-23,Ami,DR.C,1
+2166,2019-06-23,DR.C,Ramona,1
+2167,2019-06-23,Ami,Paulina,1
+2168,2019-06-23,DR.C,Paulina,1
+2169,2019-06-23,Ami,Ramona,1
+2226,2019-04-20,Ayane,Sunny,0
+2227,2019-04-20,Ram,Sunny,0
+2228,2019-04-20,Ayane,Mono,1
+2229,2019-04-20,Kona,Sunny,0
+2230,2019-04-20,Con,Ram,0
+2231,2019-04-20,Ayane,梨虹,1
+2232,2019-04-20,Mono,Yurie,1
+2248,2018-10-11,Emma,Ram,0
+2249,2018-10-11,Matina,Yell,0
+2250,2018-10-11,Emma,Matina,1
+2251,2018-10-11,Ram,Yell,1
+2252,2018-10-11,Lexy,Matina,0
+2253,2018-10-11,Carlota,Emma,0
+2254,2018-10-11,Ivy,Yell,0
+2255,2018-10-11,Ram,Vicky,1
+2256,2018-10-11,Carlota,Vale,1
+2257,2018-10-11,Anastasia,Yell,0
+2258,2018-10-11,Ivy,Lexy,1
+2259,2018-10-11,Ella,Matina,0
+2260,2018-10-11,Emma,Vicky,1
+2261,2018-10-11,Csepke,Ram,0
+2262,2018-10-11,Anastasia,Carlota,0
+2263,2018-10-11,Vale,Yell,0
+2264,2018-10-11,Ella,Lexy,0
+2265,2018-10-11,Ivy,Matina,0
+2266,2018-10-11,Csepke,Vicky,0
+2267,2018-10-11,Emma,Ram,0
+2269,2018-10-11,Carlota,Yell,0
+2270,2018-10-11,Ella,Ivy,0
+2271,2018-10-11,Lexy,Matina,0
+2272,2018-10-11,Csepke,Emma,0
+2273,2018-10-11,Ram,Vicky,1
+2300,2018-05-20,Matina,Ram,0
+2301,2018-05-20,Uruha,Yell,0
+2302,2018-05-20,Ram,Yell,1
+2303,2018-05-20,Matina,Uruha,1
+2304,2018-05-20,Connie,Ram,0
+2305,2018-05-20,Minseo,Yell,0
+2306,2018-05-20,Lexy,Uruha,0
+2307,2018-05-20,Carlota,Matina,0
+2308,2018-05-20,Minseo,Nadjaya,1
+2310,2018-05-20,Lexy,Minseo,0
+2311,2018-05-20,Maess'One,Nadjaya,1
+2312,2018-05-20,Lexy,Nadjaya,1
+2314,2018-05-20,Uruha,Vicky,1
+2316,2018-05-20,Ivy,Uruha,0
+2317,2018-05-20,Connie,Vicky,1
+2318,2018-05-20,Ivy,Vicky,0
+2319,2018-05-20,Connie,Uruha,0
+2320,2018-05-20,Uzelok,Yell,0
+2321,2018-05-20,Matina,Vale,1
+2322,2018-05-20,Vale,Yell,0
+2324,2018-05-20,Uzelok,Vale,0
+2326,2018-05-20,Anastasia,Carlota,0
+2327,2018-05-20,Emma,Ram,0
+2328,2018-05-20,Carlota,Emma,1
+2329,2018-05-20,Anastasia,Ram,0
+2330,2018-05-20,Anastasia,Emma,0
+2331,2018-05-20,Carlota,Ram,0
+2395,2017-12-02,Ram,Yell,1
+2396,2017-12-02,Nao,Uruha,0
+2397,2017-12-02,Nao,Ram,0
+2398,2017-12-02,Uruha,Yell,0
+2399,2017-12-02,Az,So,1
+2400,2017-12-02,Lulu,Yell,0
+2401,2017-12-02,Az,Lulu,1
+2402,2017-12-02,So,Yell,0
+2403,2017-12-02,Lulu,So,0
+2404,2017-12-02,Az,Yell,0
+2405,2017-12-02,Jen,Uruha,0
+2406,2017-12-02,Coco,Minseo,0
+2407,2017-12-02,Coco,Uruha,0
+2408,2017-12-02,Jen,Minseo,0
+2409,2017-12-02,Coco,Jen,0
+2410,2017-12-02,Minseo,Uruha,0
+2411,2017-12-02,Moe,Uli,1
+2412,2017-12-02,Ivy,Nao,0
+2413,2017-12-02,Ivy,Moe,0
+2414,2017-12-02,Nao,Uli,1
+2415,2017-12-02,Ivy,Uli,0
+2416,2017-12-02,Moe,Nao,0
+2417,2017-12-02,Altysha,Raon,0
+2418,2017-12-02,Ram,Yona,1
+2419,2017-12-02,Altysha,Yona,1
+2420,2017-12-02,Ram,Raon,1
+2421,2017-12-02,Raon,Yona,1
+2422,2017-12-02,Altysha,Ram,0
+2475,2017-05-11,Matina,Uzelok,1
+2476,2017-05-11,Carlota,Maess'One,1
+2477,2017-05-11,Maess'One,Uzelok,0
+2478,2017-05-11,Carlota,Matina,0
+2479,2017-05-11,Csepke,Ella,1
+2481,2017-05-11,Csepke,Lexy,0
+2482,2017-05-11,Ella,Uzelok,0
+2483,2017-05-11,Ella,Lexy,0
+2484,2017-05-11,Csepke,Uzelok,0
+2485,2017-05-11,Flexie,Lee (Russia),0
+2486,2017-05-11,Carlota,Solid,1
+2487,2017-05-11,Lee (Russia),Solid,1
+2489,2017-05-11,Flexie,Solid,1
+2490,2017-05-11,Carlota,Lee (Russia),1
+2491,2017-05-11,Anastasia,Maess'One,0
+2492,2017-05-11,Emmy,Emélia,1
+2493,2017-05-11,Emélia,Maess'One,0
+2494,2017-05-11,Anastasia,Emmy,0
+2495,2017-05-11,Anastasia,Emélia,0
+2496,2017-05-11,Emmy,Maess'One,0
+2497,2017-05-11,Ivy,Vicky,0
+2498,2017-05-11,Matina,Tigra,1
+2499,2017-05-11,Tigra,Vicky,0
+2500,2017-05-11,Ivy,Matina,0
+2501,2017-05-11,Ivy,Tigra,1
+2502,2017-05-11,Matina,Vicky,1
+2558,2017-12-17,Connie,Emma,1
+2559,2017-12-17,Esya,Nadjaya,1
+2560,2017-12-17,Emma,Esya,1
+2561,2017-12-17,Connie,Nadjaya,1
+2562,2017-12-17,Connie,Esya,1
+2563,2017-12-17,Emma,Nadjaya,1
+2595,2017-06-10,Connie,Esya,1
+2596,2017-06-10,Connie,Emma,1
+2597,2017-06-10,Emma,Esya,1
+2598,2017-06-10,Esya,Nadjaya,1
+2599,2017-06-10,Connie,Nadjaya,1
+2600,2017-06-10,Emma,Nadjaya,1
