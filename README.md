@@ -9,7 +9,7 @@ This repository contains our Capstone for the Master’s in Applied Data Science
 - Sabrina Mahnke (smahnke@umich.edu)
 
 ## Installation
-### Auxiliary files to run the following notebooks are in the files folder download the folder  and unzip the files:
+### Auxiliary files to run the following notebooks are in the files.zip folder download the folder  and unzip the files:
 - Brace_Angles_Analysis.ipynb
 - Brace_Classifier_Hyperparameter.ipynb
 - Brace_Dance_Classifier.ipynb
@@ -17,7 +17,7 @@ This repository contains our Capstone for the Master’s in Applied Data Science
 - SIC_Scoring_Sys_Analysis.ipynb
 - Tensor_Board.ipynb
   
-### For the folowing notebooks specific files are in this github
+### For the folowing notebooks specific files are in files2.zip 
 - Video_Analysis_Dance_Duration.ipynb
 - data_exploration_judges(fatique).ipynb
 - data_exploration_judges(judge_bias).ipynb
